@@ -1,7 +1,7 @@
 # Photo credits (Unsplash License: free to use, attribution not required)
 
 - PC-001: photo by Christina Radevich (@chris_designer) — https://unsplash.com/photos/a-bed-in-a-room-Lbb7GlLjsHA
-- PC-002: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-nightstand-in-it-q3R5WLca0l8
+- PC-002: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-bed-sitting-in-a-bedroom-next-to-a-window-pEq_U7ww9os
 - PC-003: photo by Lisa Anna (@lisaanna195) — https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-rug-on-the-floor-yobGhRDTmPw
 - PC-004: photo by Ezgi Deliklitas (@ezgideliklitas) — https://unsplash.com/photos/a-bed-with-a-pillow-on-it-next-to-a-window-0t4TnMbIVFs
 - PC-005: photo by Caroline Badran (@___atmos) — https://unsplash.com/photos/a-cozy-bedroom-with-a-teddy-bear-on-a-bench--Vvt07OoEj8
@@ -21,10 +21,10 @@
 - PC-019: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/white-flowers-in-a-textured-vase-on-a-black-countertop-HUw_rFhRLhI
 - PC-020: photo by Sabhyata Sahu (@sabbythefreeelf) — https://unsplash.com/photos/kitchen-utensil-organizers-on-wall-bOFKXiPJ0Z4
 - PC-021: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/modern-white-kitchen-with-wooden-countertop-and-terrazzo-backsplash-K5lTbLuhxVo
-- PC-022: photo by Roberto Nickson (@rpnickson) — https://unsplash.com/photos/gray-padded-chaise-couch-beside-window-rEJxpBskj3Q
+- PC-022: photo by Lydia Mailloux (@lydia_mailloux) — https://unsplash.com/photos/blue-sofa-with-throw-pillows-Ex9TEVXTrPw
 - PC-023: photo by Minh Pham (@minhphamdesign) — https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-OtXADkUh3-I
 - PC-024: photo by İsa A. Özalp (@isaozalp) — https://unsplash.com/photos/a-living-room-with-a-white-couch-and-pillows-8OCljTNALGM
-- PC-025: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-living-room-with-red-walls-and-a-grey-couch-37BucCnSdlw
+- PC-025: photo by Emilio Rosas (@emirox18) — https://unsplash.com/photos/wooden-furniture-in-orange-living-room-Jx4fwcNg3Mk
 - PC-026: photo by Gabriele Rampazzo (@rampazzogabriele) — https://unsplash.com/photos/black-fireplace-with-brown-wooden-frame-74GjpiGHEGA
 - PC-027: photo by Franco Debartolo (@francotheshooter) — https://unsplash.com/photos/a-round-mirror-above-a-wooden-console-table-with-decor-ZKV6qY_arM8
 - PC-028: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-room-with-a-bench-mirror-coat-rack-and-plants-CcBGwSKRldc
