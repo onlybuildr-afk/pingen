@@ -1,0 +1,32 @@
+# Photo credits (Unsplash License: free to use, attribution not required)
+
+- PC-001: photo by Christina Radevich (@chris_designer) — https://unsplash.com/photos/a-bed-in-a-room-Lbb7GlLjsHA
+- PC-002: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-nightstand-in-it-q3R5WLca0l8
+- PC-003: photo by Lisa Anna (@lisaanna195) — https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-rug-on-the-floor-yobGhRDTmPw
+- PC-004: photo by Ezgi Deliklitas (@ezgideliklitas) — https://unsplash.com/photos/a-bed-with-a-pillow-on-it-next-to-a-window-0t4TnMbIVFs
+- PC-005: photo by Caroline Badran (@___atmos) — https://unsplash.com/photos/a-cozy-bedroom-with-a-teddy-bear-on-a-bench--Vvt07OoEj8
+- PC-006: photo by Erika Mendes (@erikagraziele) — https://unsplash.com/photos/a-bed-with-white-sheets-and-a-brown-headboard-In12LSGBGHs
+- PC-007: photo by Hari's Court Hotel (@hariscourtdelhi) — https://unsplash.com/photos/bedroom-with-wooden-bed-and-blinds-7r44spckvXM
+- PC-008: photo by Zane Persaud (@zapsizzle) — https://unsplash.com/photos/a-bedroom-with-a-bed-nightstand-and-lamp-u9DIUo5izis
+- PC-009: photo by Julia (@beazy) — https://unsplash.com/photos/white-bed-linen-on-bed-w2SBYN3-Lxk
+- PC-010: photo by Priscilla Du Preez (@priscilladupreez) — https://unsplash.com/photos/a-bed-with-a-headboard-made-of-wood-and-pillows-Qra204ogMRQ
+- PC-011: photo by Josh Davies (@mestra) — https://unsplash.com/photos/light-wood-shelving-unit-and-cabinet-with-an-open-drawer-RdPAE4ywBKQ
+- PC-012: photo by James Sestric (@jamessestric) — https://unsplash.com/photos/wooden-ladder-shelf-filled-with-plants-and-decor-Mv94Olq-o_o
+- PC-013: photo by Josh Davies (@mestra) — https://unsplash.com/photos/modern-living-room-with-tv-shelves-books-and-plants-nEGbd5uqu_4
+- PC-014: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/tall-wooden-bookshelf-with-decorative-items-in-room-NsUjsJznVbg
+- PC-015: photo by tu tu (@tutuwords) — https://unsplash.com/photos/gray-dress-shirt-hang-on-brown-wooden-rack-in-front-of-window-with-white-curtain-QZGQO3NvsLo
+- PC-016: photo by Olena Bohovyk (@olenkasergienko) — https://unsplash.com/photos/white-bath-towel-on-white-wooden-cabinet-nPhVqChP1JI
+- PC-017: photo by Megan Nixon (@megnixon) — https://unsplash.com/photos/a-kitchen-shelf-filled-with-dishes-and-plants-gSptirCdrUs
+- PC-018: photo by Cooker King (@cookerking) — https://unsplash.com/photos/stainless-steel-cooking-pot-on-white-wooden-table-I-C2LNBc394
+- PC-019: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/white-flowers-in-a-textured-vase-on-a-black-countertop-HUw_rFhRLhI
+- PC-020: photo by Sabhyata Sahu (@sabbythefreeelf) — https://unsplash.com/photos/kitchen-utensil-organizers-on-wall-bOFKXiPJ0Z4
+- PC-021: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/modern-white-kitchen-with-wooden-countertop-and-terrazzo-backsplash-K5lTbLuhxVo
+- PC-022: photo by Roberto Nickson (@rpnickson) — https://unsplash.com/photos/gray-padded-chaise-couch-beside-window-rEJxpBskj3Q
+- PC-023: photo by Minh Pham (@minhphamdesign) — https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-OtXADkUh3-I
+- PC-024: photo by İsa A. Özalp (@isaozalp) — https://unsplash.com/photos/a-living-room-with-a-white-couch-and-pillows-8OCljTNALGM
+- PC-025: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-living-room-with-red-walls-and-a-grey-couch-37BucCnSdlw
+- PC-026: photo by Gabriele Rampazzo (@rampazzogabriele) — https://unsplash.com/photos/black-fireplace-with-brown-wooden-frame-74GjpiGHEGA
+- PC-027: photo by Franco Debartolo (@francotheshooter) — https://unsplash.com/photos/a-round-mirror-above-a-wooden-console-table-with-decor-ZKV6qY_arM8
+- PC-028: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-room-with-a-bench-mirror-coat-rack-and-plants-CcBGwSKRldc
+- PC-029: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-white-bench-with-a-pink-jacket-hanging-on-it-gmtqgVccxfk
+- PC-030: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-coat-rack-with-a-bag-hanging-on-it-uY2iDfd9ltA
