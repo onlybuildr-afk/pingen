@@ -1,32 +1,32 @@
 # Photo credits (Unsplash License: free to use, attribution not required)
 
-- PC-001: photo by Christina Radevich (@chris_designer) — https://unsplash.com/photos/a-bed-in-a-room-Lbb7GlLjsHA
-- PC-002: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-bed-sitting-in-a-bedroom-next-to-a-window-pEq_U7ww9os
+- PC-001: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/a-light-blue-bed-with-orange-and-striped-pillows-5qy4iXt8VL0
+- PC-002: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-tv-on-the-wall-CRVIYeNWGE0
 - PC-003: photo by Lisa Anna (@lisaanna195) — https://unsplash.com/photos/a-bedroom-with-a-bed-and-a-rug-on-the-floor-yobGhRDTmPw
-- PC-004: photo by Ezgi Deliklitas (@ezgideliklitas) — https://unsplash.com/photos/a-bed-with-a-pillow-on-it-next-to-a-window-0t4TnMbIVFs
+- PC-004: photo by Julia (@beazy) — https://unsplash.com/photos/blue-and-black-bicycle-near-green-plant-PK8BLaoAjIc
 - PC-005: photo by Caroline Badran (@___atmos) — https://unsplash.com/photos/a-cozy-bedroom-with-a-teddy-bear-on-a-bench--Vvt07OoEj8
-- PC-006: photo by Erika Mendes (@erikagraziele) — https://unsplash.com/photos/a-bed-with-white-sheets-and-a-brown-headboard-In12LSGBGHs
+- PC-006: photo by Shashi Chaturvedula (@thephotographermom) — https://unsplash.com/photos/white-ceramic-mug-on-white-and-brown-floral-table-cloth-G-OlCu2nQbs
 - PC-007: photo by Hari's Court Hotel (@hariscourtdelhi) — https://unsplash.com/photos/bedroom-with-wooden-bed-and-blinds-7r44spckvXM
-- PC-008: photo by Zane Persaud (@zapsizzle) — https://unsplash.com/photos/a-bedroom-with-a-bed-nightstand-and-lamp-u9DIUo5izis
-- PC-009: photo by Julia (@beazy) — https://unsplash.com/photos/white-bed-linen-on-bed-w2SBYN3-Lxk
-- PC-010: photo by Priscilla Du Preez (@priscilladupreez) — https://unsplash.com/photos/a-bed-with-a-headboard-made-of-wood-and-pillows-Qra204ogMRQ
-- PC-011: photo by Josh Davies (@mestra) — https://unsplash.com/photos/light-wood-shelving-unit-and-cabinet-with-an-open-drawer-RdPAE4ywBKQ
-- PC-012: photo by James Sestric (@jamessestric) — https://unsplash.com/photos/wooden-ladder-shelf-filled-with-plants-and-decor-Mv94Olq-o_o
-- PC-013: photo by Josh Davies (@mestra) — https://unsplash.com/photos/modern-living-room-with-tv-shelves-books-and-plants-nEGbd5uqu_4
-- PC-014: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/tall-wooden-bookshelf-with-decorative-items-in-room-NsUjsJznVbg
-- PC-015: photo by tu tu (@tutuwords) — https://unsplash.com/photos/gray-dress-shirt-hang-on-brown-wooden-rack-in-front-of-window-with-white-curtain-QZGQO3NvsLo
-- PC-016: photo by Olena Bohovyk (@olenkasergienko) — https://unsplash.com/photos/white-bath-towel-on-white-wooden-cabinet-nPhVqChP1JI
-- PC-017: photo by Megan Nixon (@megnixon) — https://unsplash.com/photos/a-kitchen-shelf-filled-with-dishes-and-plants-gSptirCdrUs
-- PC-018: photo by Cooker King (@cookerking) — https://unsplash.com/photos/stainless-steel-cooking-pot-on-white-wooden-table-I-C2LNBc394
-- PC-019: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/white-flowers-in-a-textured-vase-on-a-black-countertop-HUw_rFhRLhI
+- PC-008: photo by Zane Persaud (@zapsizzle) — https://unsplash.com/photos/green-plant-on-white-table-h3H0GMyNNOI
+- PC-009: photo by Julia (@beazy) — https://unsplash.com/photos/green-plant-on-white-bed-u0k_FbPjipk
+- PC-010: photo by Priscilla Du Preez 🇨🇦 (@priscilladupreez) — https://unsplash.com/photos/a-bedroom-with-a-bed-nightstand-and-lamp-M90MS_CX8G8
+- PC-011: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/tall-wooden-bookshelf-with-decorative-items-in-room-NsUjsJznVbg
+- PC-012: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/bedroom-with-open-closet-and-wooden-shelves-qWi5wl1Ncrk
+- PC-013: photo by Josh Davies (@mestra) — https://unsplash.com/photos/light-wood-shelving-unit-and-cabinet-with-an-open-drawer-RdPAE4ywBKQ
+- PC-014: photo by Alexey Aladashvili (@alexeyaladashvili61) — https://unsplash.com/photos/modern-minimalist-living-space-with-open-layout-5aJpyxXaCyA
+- PC-015: photo by Sonia Sanmartin (@soniasanmartin) — https://unsplash.com/photos/clothes-hanged-on-brown-wooden-cabinet-q7q-dMzWnaA
+- PC-016: photo by ASR Design Studio (@asrdesignstudio) — https://unsplash.com/photos/a-walk-in-closet-filled-with-lots-of-shoes-E3VwTDQTaoc
+- PC-017: photo by Andrea Davis (@andreaedavis) — https://unsplash.com/photos/black-electric-kettle-in-kitchen-corner-qhbJlPHOx_4
+- PC-018: photo by Dinh Ng. (@dinhnext) — https://unsplash.com/photos/white-dishwasher-2Cc0KnE3lCs
+- PC-019: photo by Irena Oze (@iistyle) — https://unsplash.com/photos/modern-kitchen-island-stools-and-pussy-willow-branches-Q1750priSUc
 - PC-020: photo by Sabhyata Sahu (@sabbythefreeelf) — https://unsplash.com/photos/kitchen-utensil-organizers-on-wall-bOFKXiPJ0Z4
-- PC-021: photo by Aleksandra Dementeva (@alexphotogram) — https://unsplash.com/photos/modern-white-kitchen-with-wooden-countertop-and-terrazzo-backsplash-K5lTbLuhxVo
-- PC-022: photo by Lydia Mailloux (@lydia_mailloux) — https://unsplash.com/photos/blue-sofa-with-throw-pillows-Ex9TEVXTrPw
-- PC-023: photo by Minh Pham (@minhphamdesign) — https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-OtXADkUh3-I
-- PC-024: photo by İsa A. Özalp (@isaozalp) — https://unsplash.com/photos/a-living-room-with-a-white-couch-and-pillows-8OCljTNALGM
-- PC-025: photo by Emilio Rosas (@emirox18) — https://unsplash.com/photos/wooden-furniture-in-orange-living-room-Jx4fwcNg3Mk
-- PC-026: photo by Gabriele Rampazzo (@rampazzogabriele) — https://unsplash.com/photos/black-fireplace-with-brown-wooden-frame-74GjpiGHEGA
+- PC-021: photo by Caroline Badran (@___atmos) — https://unsplash.com/photos/modern-kitchen-with-white-cabinets-marble-backsplash-and-a-sink-vMb5YIxaT44
+- PC-022: photo by Minh Pham (@minhphamdesign) — https://unsplash.com/photos/a-living-room-filled-with-furniture-and-a-large-window-OtXADkUh3-I
+- PC-023: photo by Bozica Uglesic (@bozica24) — https://unsplash.com/photos/a-living-room-with-a-couch-and-a-table-8tOPzx3k62g
+- PC-024: photo by Costa Live (@vendedorescostalive) — https://unsplash.com/photos/modern-living-room-with-gray-sofa-and-coffee-table--b7f3CpeTDA
+- PC-025: photo by Lisha Riabinina (@weekendtripcreator) — https://unsplash.com/photos/a-living-room-with-a-couch-and-a-lamp-WrZ7wGXqCqw
+- PC-026: photo by Roberto Nickson (@rpnickson) — https://unsplash.com/photos/gray-padded-chaise-couch-beside-window-rEJxpBskj3Q
 - PC-027: photo by Franco Debartolo (@francotheshooter) — https://unsplash.com/photos/a-round-mirror-above-a-wooden-console-table-with-decor-ZKV6qY_arM8
 - PC-028: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-room-with-a-bench-mirror-coat-rack-and-plants-CcBGwSKRldc
-- PC-029: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-white-bench-with-a-pink-jacket-hanging-on-it-gmtqgVccxfk
-- PC-030: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-coat-rack-with-a-bag-hanging-on-it-uY2iDfd9ltA
+- PC-029: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-room-that-has-a-bench-in-it-2Ej4YPLLhw4
+- PC-030: photo by Alex Tyson (@alextyson195) — https://unsplash.com/photos/a-room-with-a-bench-rug-and-a-window-f5TrEIavwto
