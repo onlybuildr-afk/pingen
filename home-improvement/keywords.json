@@ -1,0 +1,961 @@
+[
+  {
+    "keyword": "home improvement projects",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": 3000,
+    "source_url": "https://www.pinterest.com/ideas/home-improvement-projects/923629755243/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "home improvement show",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": 880,
+    "source_url": "https://www.pinterest.com/ideas/home-improvement-show/953600813192/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "home improvement products",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": 329,
+    "source_url": "https://www.pinterest.com/ideas/home-improvement-products/921249336112/",
+    "intent": "shopping"
+  },
+  {
+    "keyword": "home improvement vision board",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": 210,
+    "source_url": "https://www.pinterest.com/ideas/home-improvement-vision-board/914299277780/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "home improvement quotes",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": 120,
+    "source_url": "https://www.pinterest.com/ideas/home-improvement-quotes/953157609967/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "home improvement gift basket",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": 119,
+    "source_url": "https://www.pinterest.com/ideas/home-improvement-gift-basket/942458569949/",
+    "intent": "shopping"
+  },
+  {
+    "keyword": "simple diy home improvement",
+    "subtopic": "diy home improvement",
+    "pinterest_people_searched": 235,
+    "source_url": "https://www.pinterest.com/ideas/simple-diy-home-improvement/898648996969/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "small home upgrades easy diy",
+    "subtopic": "diy home improvement",
+    "pinterest_people_searched": 165,
+    "source_url": "https://www.pinterest.com/ideas/small-home-upgrades-easy-diy/925891123223/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "cheap and easy home improvements",
+    "subtopic": "diy home improvement",
+    "pinterest_people_searched": 161,
+    "source_url": "https://www.pinterest.com/ideas/cheap-and-easy-home-improvements/949569629294/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "diy budget home improvement",
+    "subtopic": "diy home improvement",
+    "pinterest_people_searched": 158,
+    "source_url": "https://www.pinterest.com/ideas/diy-budget-home-improvement/921871768191/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "inexpensive home improvement",
+    "subtopic": "diy home improvement",
+    "pinterest_people_searched": 28,
+    "source_url": "https://www.pinterest.com/ideas/inexpensive-home-improvement/920425619530/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "cheap home upgrades",
+    "subtopic": "budget home upgrades",
+    "pinterest_people_searched": 2000,
+    "source_url": "https://www.pinterest.com/ideas/cheap-home-upgrades/899165261746/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal on a budget",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": 6000,
+    "source_url": "https://www.pinterest.com/ideas/curb-appeal-on-a-budget/938355897013/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal landscape",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": 6000,
+    "source_url": "https://www.pinterest.com/ideas/curb-appeal-landscape/914883816814/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal landscaping",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": 875,
+    "source_url": "https://www.pinterest.com/ideas/curb-appeal-landscaping/899856336616/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal inspiration",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": 185,
+    "source_url": "https://www.pinterest.com/ideas/curb-appeal-inspiration/917791061809/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal without plants",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": 105,
+    "source_url": "https://www.pinterest.com/ideas/curb-appeal-without-plants/940396927970/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal on a budget front yard",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": 80,
+    "source_url": "https://www.pinterest.com/ideas/curb-appeal-on-a-budget-front-yard/948783859418/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front door colors",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 72000,
+    "source_url": "https://www.pinterest.com/ideas/front-door-colors/950288131879/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front door makeover",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 6000,
+    "source_url": "https://www.pinterest.com/ideas/front-door-makeover/944721482038/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "front door colors with white house",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 4000,
+    "source_url": "https://www.pinterest.com/ideas/front-door-colors-with-white-house/909527221616/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front door paint",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 3000,
+    "source_url": "https://www.pinterest.com/ideas/front-door-paint/911914193471/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "front door transformation",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 2000,
+    "source_url": "https://www.pinterest.com/ideas/front-door-transformation/956686258718/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front door replacement ideas",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 290,
+    "source_url": "https://www.pinterest.com/ideas/front-door-replacement-ideas/903889231274/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front door renovation ideas",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 195,
+    "source_url": "https://www.pinterest.com/ideas/front-door-renovation-ideas/943777020024/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front door ideas green",
+    "subtopic": "front door makeover",
+    "pinterest_people_searched": 190,
+    "source_url": "https://www.pinterest.com/ideas/front-door-ideas-green/912520530940/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall ideas",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 100000,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-ideas/930674826562/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall designs",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 80000,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-designs/945359423406/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall entryway",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 4000,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-entryway/952905253264/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall for office",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 614,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-for-office/893679296413/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall trends 2026",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 313,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-trends-2026/931733544051/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall for pictures",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 102,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-for-pictures/950254543042/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall around door",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": 76,
+    "source_url": "https://www.pinterest.com/ideas/accent-wall-around-door/913742733256/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "paint colors for home",
+    "subtopic": "painting",
+    "pinterest_people_searched": 129000,
+    "source_url": "https://www.pinterest.com/ideas/paint-colors-for-home/946292957135/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "paint colors",
+    "subtopic": "painting",
+    "pinterest_people_searched": 85000,
+    "source_url": "https://www.pinterest.com/ideas/paint-colors/931930769414/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "paint colors for house",
+    "subtopic": "painting",
+    "pinterest_people_searched": 426,
+    "source_url": "https://www.pinterest.com/ideas/paint-colors-for-house/921213366893/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "paint colors for whole house",
+    "subtopic": "painting",
+    "pinterest_people_searched": 208,
+    "source_url": "https://www.pinterest.com/ideas/paint-colors-for-whole-house/950998870218/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "paint colors to make a room feel bigger",
+    "subtopic": "painting",
+    "pinterest_people_searched": 201,
+    "source_url": "https://www.pinterest.com/ideas/paint-colors-to-make-a-room-feel-bigger/921758198631/",
+    "intent": "problem-solving"
+  },
+  {
+    "keyword": "painted walls aesthetic",
+    "subtopic": "painting",
+    "pinterest_people_searched": 776,
+    "source_url": "https://www.pinterest.com/ideas/painted-walls-aesthetic/917751676110/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "painted walls and ceiling same color",
+    "subtopic": "painting",
+    "pinterest_people_searched": 238,
+    "source_url": "https://www.pinterest.com/ideas/painted-walls-and-ceiling-same-color/953987521202/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "painted walls that look like wallpaper",
+    "subtopic": "painting",
+    "pinterest_people_searched": 117,
+    "source_url": "https://www.pinterest.com/ideas/painted-walls-that-look-like-wallpaper/959237918695/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "kitchen cabinet trends",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-cabinet-trends/934816976182/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "painted kitchen cabinets before and after",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 552,
+    "source_url": "https://www.pinterest.com/ideas/painted-kitchen-cabinets-before-and-after/939986737773/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "easy kitchen cabinet makeover",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 374,
+    "source_url": "https://www.pinterest.com/ideas/easy-kitchen-cabinet-makeover/911102334270/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "kitchen cabinet cover ideas",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 371,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-cabinet-cover-ideas/909378197088/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "kitchen cabinet before and after",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 151,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-cabinet-before-and-after/906884535233/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "kitchen cabinet transformations",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 64,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-cabinet-transformations/904586768113/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "mcm cabinet makeover",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": 61,
+    "source_url": "https://www.pinterest.com/ideas/mcm-cabinet-makeover/897951203845/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "kitchen backsplash",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 136000,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-backsplash/957159140230/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "backsplash for kitchen",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/backsplash-for-kitchen/955539285042/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "backsplash designs",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/backsplash-designs/924980185914/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "kitchen backsplash texture",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-backsplash-texture/920687186570/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "backsplash ideas kitchen",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/backsplash-ideas-kitchen/928052850990/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "kitchen backsplash ideas not tile",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 215,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-backsplash-ideas-not-tile/951556429184/",
+    "intent": "problem-solving"
+  },
+  {
+    "keyword": "backsplash ideas not tile",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 200,
+    "source_url": "https://www.pinterest.com/ideas/backsplash-ideas-not-tile/901574897647/",
+    "intent": "problem-solving"
+  },
+  {
+    "keyword": "kitchen backsplash ideas neutral",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": 103,
+    "source_url": "https://www.pinterest.com/ideas/kitchen-backsplash-ideas-neutral/931529309739/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "bathroom makeover",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 55000,
+    "source_url": "https://www.pinterest.com/ideas/bathroom-makeover/952199607789/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "small bathroom remodel with tub",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 9000,
+    "source_url": "https://www.pinterest.com/ideas/small-bathroom-remodel-with-tub/900905893990/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "small bathroom remodel with shower only no tub ideas",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 3000,
+    "source_url": "https://www.pinterest.com/ideas/small-bathroom-remodel-with-shower-only-no-tub-ideas/923923781379/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "small bathroom remodel ideas on a budget",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 342,
+    "source_url": "https://www.pinterest.com/ideas/small-bathroom-remodel-ideas-on-a-budget/943845652910/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "small bathroom remodel before and after",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 268,
+    "source_url": "https://www.pinterest.com/ideas/small-bathroom-remodel-before-and-after/931542455844/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "small bathroom makeover on a budget",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 133,
+    "source_url": "https://www.pinterest.com/ideas/small-bathroom-makeover-on-a-budget/942756665145/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "small bathroom ideas rental friendly",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 102,
+    "source_url": "https://www.pinterest.com/ideas/small-bathroom-ideas-rental-friendly/935181590380/",
+    "intent": "problem-solving"
+  },
+  {
+    "keyword": "bathroom makeover wallpaper",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": 112,
+    "source_url": "https://www.pinterest.com/ideas/bathroom-makeover-wallpaper/913779566759/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "flooring trends for 2025",
+    "subtopic": "flooring",
+    "pinterest_people_searched": 5000,
+    "source_url": "https://www.pinterest.com/ideas/flooring-trends-for-2025/941592200939/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "flooring trends",
+    "subtopic": "flooring",
+    "pinterest_people_searched": 2000,
+    "source_url": "https://www.pinterest.com/ideas/flooring-trends/953726376875/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "flooring projects",
+    "subtopic": "flooring",
+    "pinterest_people_searched": 155,
+    "source_url": "https://www.pinterest.com/ideas/flooring-projects/900413961910/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "flooring for small spaces",
+    "subtopic": "flooring",
+    "pinterest_people_searched": 151,
+    "source_url": "https://www.pinterest.com/ideas/flooring-for-small-spaces/903415437114/",
+    "intent": "problem-solving"
+  },
+  {
+    "keyword": "flooring material ideas",
+    "subtopic": "flooring",
+    "pinterest_people_searched": 149,
+    "source_url": "https://www.pinterest.com/ideas/flooring-material-ideas/945837629883/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "rental friendly floor upgrades",
+    "subtopic": "flooring",
+    "pinterest_people_searched": 145,
+    "source_url": "https://www.pinterest.com/ideas/rental-friendly-floor-upgrades/910836404185/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "light fixtures",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 46000,
+    "source_url": "https://www.pinterest.com/ideas/light-fixtures/951763118962/",
+    "intent": "shopping"
+  },
+  {
+    "keyword": "entryway lighting",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 12000,
+    "source_url": "https://www.pinterest.com/ideas/entryway-lighting/948842234344/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "lighting ideas living room",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 10000,
+    "source_url": "https://www.pinterest.com/ideas/lighting-ideas-living-room/900155947862/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "chandelier for foyer entryway",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/chandelier-for-foyer-entryway/923661426623/",
+    "intent": "shopping"
+  },
+  {
+    "keyword": "chandelier entrance",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 526,
+    "source_url": "https://www.pinterest.com/ideas/chandelier-entrance/948469122713/",
+    "intent": "shopping"
+  },
+  {
+    "keyword": "lighting ideas living room ceiling",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 370,
+    "source_url": "https://www.pinterest.com/ideas/lighting-ideas-living-room-ceiling/906351851110/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "renter friendly lighting upgrades",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": 130,
+    "source_url": "https://www.pinterest.com/ideas/renter-friendly-lighting-upgrades/917898668868/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "board and batten wall",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 166000,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-wall/933778147525/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "board and batten wall bathroom",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 6000,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-wall-bathroom/893562707492/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "board and batten with stone",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 190,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-with-stone/940458472717/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "board and batten mid century modern",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 162,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-mid-century-modern/945814221629/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "board and batten wall with mirror",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 113,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-wall-with-mirror/909204746990/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "board and batten whole wall",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 98,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-whole-wall/895096208841/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "board and batten wall behind couch",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 86,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-wall-behind-couch/949936192994/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "board and batten wall with baseboard",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 62,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-wall-with-baseboard/932732938261/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "board and batten horizontal",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": 62,
+    "source_url": "https://www.pinterest.com/ideas/board-and-batten-horizontal/926454990725/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "floating shelves living room",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 97000,
+    "source_url": "https://www.pinterest.com/ideas/floating-shelves-living-room/919938401213/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "built ins around tv",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 17000,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-around-tv/906458947611/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "floating shelves decor",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 16000,
+    "source_url": "https://www.pinterest.com/ideas/floating-shelves-decor/942178786756/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "built ins",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 13000,
+    "source_url": "https://www.pinterest.com/ideas/built-ins/904353851467/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "floating shelves ideas",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 9000,
+    "source_url": "https://www.pinterest.com/ideas/floating-shelves-ideas/929042253969/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "floating shelves decor ideas",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 3000,
+    "source_url": "https://www.pinterest.com/ideas/floating-shelves-decor-ideas/956314848184/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "floating shelves design",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/floating-shelves-design/904834038779/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "built ins with tv",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 947,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-with-tv/898751625052/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "floating shelves layout",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 503,
+    "source_url": "https://www.pinterest.com/ideas/floating-shelves-layout/904544505374/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "built ins around doorway",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 247,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-around-doorway/949489674976/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "built ins around couch",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 171,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-around-couch/933654956502/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "built ins with doors",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 139,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-with-doors/949868749330/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "built ins with stock cabinets",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 76,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-with-stock-cabinets/920624307086/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "built ins on a budget",
+    "subtopic": "built-ins / shelving",
+    "pinterest_people_searched": 59,
+    "source_url": "https://www.pinterest.com/ideas/built-ins-on-a-budget/899189502188/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "renter friendly",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 13000,
+    "source_url": "https://www.pinterest.com/ideas/renter-friendly/929745515334/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "renter friendly upgrades rental kitchen",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 1000,
+    "source_url": "https://www.pinterest.com/ideas/renter-friendly-upgrades-rental-kitchen/952919618260/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "rental friendly kitchen",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 559,
+    "source_url": "https://www.pinterest.com/ideas/rental-friendly-kitchen/913728269090/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "rental friendly diy",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 550,
+    "source_url": "https://www.pinterest.com/ideas/rental-friendly-diy/893618568764/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "rental friendly bedroom makeover",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 524,
+    "source_url": "https://www.pinterest.com/ideas/rental-friendly-bedroom-makeover/955681323162/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "rental friendly wall decor",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 466,
+    "source_url": "https://www.pinterest.com/ideas/rental-friendly-wall-decor/919991889088/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "renter friendly living room ideas",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 316,
+    "source_url": "https://www.pinterest.com/ideas/renter-friendly-living-room-ideas/961606313452/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "rental friendly shower upgrades",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 290,
+    "source_url": "https://www.pinterest.com/ideas/rental-friendly-shower-upgrades/918070127887/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "renter friendly door upgrade",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": 203,
+    "source_url": "https://www.pinterest.com/ideas/renter-friendly-door-upgrade/951671365546/",
+    "intent": "how-to"
+  },
+  {
+    "keyword": "front porch ideas",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 372000,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-ideas/901755668544/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "patio decorating ideas",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 235000,
+    "source_url": "https://www.pinterest.com/ideas/patio-decorating-ideas/894412578595/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "patio interior",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 51000,
+    "source_url": "https://www.pinterest.com/ideas/patio-interior/901713861180/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front porch makeover",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 11000,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-makeover/912021429291/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "patio decorating ideas on a budget",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 6000,
+    "source_url": "https://www.pinterest.com/ideas/patio-decorating-ideas-on-a-budget/924253588288/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "patio garden design",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 6000,
+    "source_url": "https://www.pinterest.com/ideas/patio-garden-design/903975453781/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front porch ideas australia",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 3000,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-ideas-australia/900515786852/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "porch ideas on a budget",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 2000,
+    "source_url": "https://www.pinterest.com/ideas/porch-ideas-on-a-budget/924192265535/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front porch makeover ideas",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 885,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-makeover-ideas/951646480461/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front porch summer",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 875,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-summer/955911792612/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front porch ideas decor",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 266,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-ideas-decor/961286710233/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "front porch ideas for renters",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 53,
+    "source_url": "https://www.pinterest.com/ideas/front-porch-ideas-for-renters/950525831168/",
+    "intent": "problem-solving"
+  },
+  {
+    "keyword": "patio makeover before and after",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": 74,
+    "source_url": "https://www.pinterest.com/ideas/patio-makeover-before-and-after/914843505983/",
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "home improvement",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "home improvement ideas",
+    "subtopic": "home improvement",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "diy home improvement",
+    "subtopic": "diy home improvement",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "budget home upgrades",
+    "subtopic": "budget home upgrades",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "curb appeal",
+    "subtopic": "curb appeal",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "accent wall",
+    "subtopic": "accent wall",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "kitchen cabinet makeover",
+    "subtopic": "kitchen cabinet makeover",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "backsplash",
+    "subtopic": "backsplash",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "small bathroom remodel",
+    "subtopic": "bathroom makeover",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "flooring",
+    "subtopic": "flooring",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "lighting upgrade",
+    "subtopic": "lighting upgrade",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "board and batten",
+    "subtopic": "board and batten",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "rental friendly upgrades",
+    "subtopic": "rental friendly upgrades",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "porch makeover",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  },
+  {
+    "keyword": "patio makeover",
+    "subtopic": "porch / patio makeover",
+    "pinterest_people_searched": null,
+    "source_url": null,
+    "intent": "inspiration"
+  }
+]

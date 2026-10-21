@@ -1,0 +1,353 @@
+{
+  "cluster_run_id": "CR-HI-2026-10-21-01",
+  "clusters": [
+    {
+      "cluster_id": "HI-001",
+      "primary_keyword": "board and batten wall",
+      "supporting_keywords": [
+        "board and batten wall bathroom",
+        "board and batten wall with mirror",
+        "board and batten whole wall",
+        "board and batten wall with baseboard"
+      ],
+      "long_tail_keyword": "board and batten wall behind couch",
+      "search_intent": "how-to",
+      "content_angle": "Step-by-step DIY board and batten wall with a before/after reveal and a materials list under $100",
+      "target_audience": "Renters-turned-owners and DIY beginners wanting a high-impact weekend project",
+      "seasonality": "fall/winter (indoor weekend project; peaks in cooler months)",
+      "visual_concept": "Hallway or entryway wall with white board and batten painted deep green, a mirror and hooks, warm lamp light",
+      "priority_score": 72,
+      "source_research_keywords": [
+        "board and batten wall",
+        "board and batten wall bathroom",
+        "board and batten wall with mirror",
+        "board and batten whole wall",
+        "board and batten wall with baseboard",
+        "board and batten wall behind couch"
+      ],
+      "subtopic": "board and batten",
+      "photo_query": "board and batten wall",
+      "primary_volume": 166000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-002",
+      "primary_keyword": "accent wall ideas",
+      "supporting_keywords": [
+        "accent wall designs",
+        "accent wall trends 2026",
+        "accent wall for office",
+        "accent wall around door"
+      ],
+      "long_tail_keyword": "accent wall entryway",
+      "search_intent": "inspiration",
+      "content_angle": "Numbered roundup of accent wall ideas that make a room feel cozy for the dark months",
+      "target_audience": "Homeowners and renters refreshing a bedroom, living room or office",
+      "seasonality": "fall/winter (cozy, dark-toned indoor refresh)",
+      "visual_concept": "Bedroom with a moody dark green or navy painted accent wall behind the bed, warm bedside lamps, textured bedding",
+      "priority_score": 70,
+      "source_research_keywords": [
+        "accent wall ideas",
+        "accent wall designs",
+        "accent wall trends 2026",
+        "accent wall for office",
+        "accent wall around door",
+        "accent wall entryway"
+      ],
+      "subtopic": "accent wall bedroom",
+      "photo_query": "accent wall",
+      "primary_volume": 100000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-003",
+      "primary_keyword": "kitchen backsplash",
+      "supporting_keywords": [
+        "backsplash designs",
+        "backsplash for kitchen",
+        "kitchen backsplash texture",
+        "kitchen backsplash ideas not tile"
+      ],
+      "long_tail_keyword": "kitchen backsplash ideas neutral",
+      "search_intent": "inspiration",
+      "content_angle": "Before/after style backsplash ideas, including no-tile options, to refresh a kitchen before holiday hosting",
+      "target_audience": "Homeowners planning a kitchen refresh before the holidays",
+      "seasonality": "evergreen (holiday hosting bump Oct-Dec)",
+      "visual_concept": "Bright kitchen close-up with white countertop and a textured handmade tile backsplash under a wooden shelf",
+      "priority_score": 69,
+      "source_research_keywords": [
+        "kitchen backsplash",
+        "backsplash designs",
+        "backsplash for kitchen",
+        "kitchen backsplash texture",
+        "kitchen backsplash ideas not tile",
+        "kitchen backsplash ideas neutral"
+      ],
+      "subtopic": "kitchen backsplash tile",
+      "photo_query": "kitchen backsplash",
+      "primary_volume": 136000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-004",
+      "primary_keyword": "front porch ideas",
+      "supporting_keywords": [
+        "front porch makeover",
+        "front porch makeover ideas",
+        "porch ideas on a budget",
+        "front porch ideas decor"
+      ],
+      "long_tail_keyword": "front porch ideas for renters",
+      "search_intent": "inspiration",
+      "content_angle": "Cozy autumn-to-winter front porch makeover ideas that boost curb appeal on a budget",
+      "target_audience": "Homeowners and renters decorating the entrance for fall and holidays",
+      "seasonality": "fall/winter (autumn and holiday porch season)",
+      "visual_concept": "Welcoming front porch with a painted door, pumpkins and a wreath, warm lantern light at dusk",
+      "priority_score": 76,
+      "source_research_keywords": [
+        "front porch ideas",
+        "front porch makeover",
+        "front porch makeover ideas",
+        "porch ideas on a budget",
+        "front porch ideas decor",
+        "front porch ideas for renters"
+      ],
+      "subtopic": "front porch",
+      "photo_query": "front porch autumn",
+      "primary_volume": 372000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-005",
+      "primary_keyword": "front door colors",
+      "supporting_keywords": [
+        "front door makeover",
+        "front door paint",
+        "front door transformation",
+        "front door colors with white house"
+      ],
+      "long_tail_keyword": "front door replacement ideas",
+      "search_intent": "inspiration",
+      "content_angle": "Front door color and paint makeover ideas with a quick DIY how-to angle for instant curb appeal",
+      "target_audience": "Homeowners wanting fast curb appeal upgrades; DIY painters",
+      "seasonality": "evergreen (fall color swaps are popular)",
+      "visual_concept": "Painted deep green or navy front door on a white house with brass hardware and a wreath",
+      "priority_score": 69,
+      "source_research_keywords": [
+        "front door colors",
+        "front door makeover",
+        "front door paint",
+        "front door transformation",
+        "front door colors with white house",
+        "front door replacement ideas"
+      ],
+      "subtopic": "front door",
+      "photo_query": "painted front door",
+      "primary_volume": 72000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-006",
+      "primary_keyword": "floating shelves living room",
+      "supporting_keywords": [
+        "floating shelves decor",
+        "floating shelves ideas",
+        "floating shelves decor ideas",
+        "floating shelves design"
+      ],
+      "long_tail_keyword": "floating shelves layout",
+      "search_intent": "inspiration",
+      "content_angle": "Styled floating shelf ideas for the living room, with a how-to for layout and holiday-ready decor",
+      "target_audience": "Renters and homeowners wanting storage and style without built-ins",
+      "seasonality": "evergreen (holiday styling bump)",
+      "visual_concept": "Living room wall with warm wood floating shelves styled with books, ceramics and a plant above a sofa",
+      "priority_score": 68,
+      "source_research_keywords": [
+        "floating shelves living room",
+        "floating shelves decor",
+        "floating shelves ideas",
+        "floating shelves decor ideas",
+        "floating shelves design",
+        "floating shelves layout"
+      ],
+      "subtopic": "floating shelves living room",
+      "photo_query": "floating shelves",
+      "primary_volume": 97000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-007",
+      "primary_keyword": "bathroom makeover",
+      "supporting_keywords": [
+        "small bathroom remodel with tub",
+        "small bathroom remodel with shower only no tub ideas",
+        "small bathroom remodel ideas on a budget",
+        "small bathroom makeover on a budget"
+      ],
+      "long_tail_keyword": "small bathroom ideas rental friendly",
+      "search_intent": "inspiration",
+      "content_angle": "Small bathroom makeover ideas and budget remodel before/afters for an indoor winter project",
+      "target_audience": "Homeowners and renters with a dated small bathroom",
+      "seasonality": "evergreen (indoor project season Oct-Dec)",
+      "visual_concept": "Small bathroom with fresh paint, new vanity light, mirror and folded towels, soft daylight",
+      "priority_score": 63,
+      "source_research_keywords": [
+        "bathroom makeover",
+        "small bathroom remodel with tub",
+        "small bathroom remodel with shower only no tub ideas",
+        "small bathroom remodel ideas on a budget",
+        "small bathroom makeover on a budget",
+        "small bathroom ideas rental friendly"
+      ],
+      "subtopic": "small bathroom",
+      "photo_query": "small bathroom",
+      "primary_volume": 55000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-008",
+      "primary_keyword": "light fixtures",
+      "supporting_keywords": [
+        "entryway lighting",
+        "lighting ideas living room",
+        "chandelier for foyer entryway",
+        "lighting ideas living room ceiling"
+      ],
+      "long_tail_keyword": "renter friendly lighting upgrades",
+      "search_intent": "shopping",
+      "content_angle": "Lighting upgrade ideas that warm up a home for the dark months, with a fixture swap how-to angle",
+      "target_audience": "Homeowners and renters upgrading entry and living room lighting",
+      "seasonality": "fall/winter (shorter days drive lighting interest)",
+      "visual_concept": "Entryway with a statement pendant or chandelier glowing warm above a console table",
+      "priority_score": 65,
+      "source_research_keywords": [
+        "light fixtures",
+        "entryway lighting",
+        "lighting ideas living room",
+        "chandelier for foyer entryway",
+        "lighting ideas living room ceiling",
+        "renter friendly lighting upgrades"
+      ],
+      "subtopic": "entryway lighting",
+      "photo_query": "entryway pendant light",
+      "primary_volume": 46000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-009",
+      "primary_keyword": "built ins around tv",
+      "supporting_keywords": [
+        "built ins",
+        "built ins with tv",
+        "built ins around doorway",
+        "built ins on a budget"
+      ],
+      "long_tail_keyword": "built ins with stock cabinets",
+      "search_intent": "inspiration",
+      "content_angle": "Built-in ideas around the TV, including budget builds with stock cabinets, for a cozy movie-season living room",
+      "target_audience": "Homeowners planning a living room upgrade",
+      "seasonality": "fall/winter (cozy indoor living room projects)",
+      "visual_concept": "Living room wall of white built-in cabinets and shelves flanking a TV, styled with books and warm lamps",
+      "priority_score": 58,
+      "source_research_keywords": [
+        "built ins around tv",
+        "built ins",
+        "built ins with tv",
+        "built ins around doorway",
+        "built ins on a budget",
+        "built ins with stock cabinets"
+      ],
+      "subtopic": "built in bookshelves",
+      "photo_query": "built in shelves",
+      "primary_volume": 17000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-010",
+      "primary_keyword": "renter friendly",
+      "supporting_keywords": [
+        "renter friendly upgrades rental kitchen",
+        "rental friendly kitchen",
+        "rental friendly diy",
+        "rental friendly bedroom makeover"
+      ],
+      "long_tail_keyword": "renter friendly door upgrade",
+      "search_intent": "how-to",
+      "content_angle": "Damage-free renter-friendly upgrades that make a rental feel like home, no deposit lost",
+      "target_audience": "Apartment renters",
+      "seasonality": "evergreen (moving season and cozy refresh)",
+      "visual_concept": "Apartment kitchen with peel and stick backsplash, new knobs and a plug-in light, cozy styling",
+      "priority_score": 55,
+      "source_research_keywords": [
+        "renter friendly",
+        "renter friendly upgrades rental kitchen",
+        "rental friendly kitchen",
+        "rental friendly diy",
+        "rental friendly bedroom makeover",
+        "renter friendly door upgrade"
+      ],
+      "subtopic": "rental apartment",
+      "photo_query": "apartment kitchen",
+      "primary_volume": 13000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-011",
+      "primary_keyword": "paint colors for home",
+      "supporting_keywords": [
+        "paint colors",
+        "paint colors for house",
+        "paint colors for whole house",
+        "paint colors to make a room feel bigger"
+      ],
+      "long_tail_keyword": "painted walls that look like wallpaper",
+      "search_intent": "inspiration",
+      "content_angle": "Paint colors for the whole home with cozy fall and winter palettes and a how-to to choose",
+      "target_audience": "Homeowners repainting interiors before the holidays",
+      "seasonality": "fall/winter (indoor painting season)",
+      "visual_concept": "Living room with warm greige or deep olive walls and paint swatches on a table, soft daylight",
+      "priority_score": 69,
+      "source_research_keywords": [
+        "paint colors for home",
+        "paint colors",
+        "paint colors for house",
+        "paint colors for whole house",
+        "paint colors to make a room feel bigger",
+        "painted walls that look like wallpaper"
+      ],
+      "subtopic": "interior paint colors",
+      "photo_query": "paint swatches wall",
+      "primary_volume": 129000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    },
+    {
+      "cluster_id": "HI-012",
+      "primary_keyword": "home improvement projects",
+      "supporting_keywords": [
+        "cheap home upgrades",
+        "small home upgrades easy diy",
+        "diy budget home improvement",
+        "simple diy home improvement"
+      ],
+      "long_tail_keyword": "cheap and easy home improvements",
+      "search_intent": "how-to",
+      "content_angle": "Weekend home improvement projects on a budget that upgrade the home before the holidays",
+      "target_audience": "Budget-minded homeowners and beginner DIYers",
+      "seasonality": "fall/winter (weekend indoor projects)",
+      "visual_concept": "Person painting a wall or installing a shelf in a bright room with tools and paint cans on the floor",
+      "priority_score": 53,
+      "source_research_keywords": [
+        "home improvement projects",
+        "cheap home upgrades",
+        "small home upgrades easy diy",
+        "diy budget home improvement",
+        "simple diy home improvement",
+        "cheap and easy home improvements"
+      ],
+      "subtopic": "home improvement diy",
+      "photo_query": "diy home project",
+      "primary_volume": 3000,
+      "volume_source": "Pinterest ideas page \"N people searched this\" (exact-match page title; counts above 1k are rounded by Pinterest)"
+    }
+  ]
+}
