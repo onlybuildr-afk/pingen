@@ -1,0 +1,8 @@
+[
+ {"id":"MP-001_side-hustles-from-home","keyword":"Side hustles from home","headline":"9 side hustles you can start from home","cta":"Save for your next idea","photo":"photos/MP-001.jpg","focusY":45,
+  "theme":{"bg":"#f1ebe2","ink":"#1f2a37","accent":"#b4532a"}},
+ {"id":"MP-002_etsy-digital-products","keyword":"Etsy digital products","headline":"7 Etsy digital products beginners can make","cta":"Save before you start","photo":"photos/MP-002.jpg","focusY":40,
+  "theme":{"bg":"#eef1f5","ink":"#1c2733","accent":"#2f6f8f"}},
+ {"id":"MP-003_merry-christmas-printable","keyword":"Merry Christmas printable","headline":"Free merry Christmas printables to frame","cta":"Save for the holidays","photo":"photos/MP-003.jpg","focusY":40,
+  "theme":{"bg":"#f4ece4","ink":"#2a1d1a","accent":"#9b2c2c"}}
+]
