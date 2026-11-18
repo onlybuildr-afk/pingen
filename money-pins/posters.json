@@ -1,0 +1,11 @@
+[
+ {"id":"MP-004_etsy-digital-products-list","eyebrow":"Etsy digital products","number":"30","title":"Digital Products to Sell on Etsy","year":"2026 LIST","cols":2,"cta":"Save this list",
+  "items":["Digital planners","Budget trackers","Habit trackers","Meal planners","Wedding planners","Printable wall art","Kids activity sheets","Coloring pages","Flash cards","Homeschool worksheets","Instagram templates","Resume templates","Business card templates","Etsy shop banners","Social media kits","Invitation templates","Party printables","Gift tags","Digital stickers","Notion templates","Google Sheets trackers","Recipe cards","Cleaning checklists","Fitness trackers","Journal prompts","Affirmation cards","Printable bookmarks","2027 calendars","Baby milestone cards","Lightroom presets"],
+  "theme":{"bg":"#fbe4ea","ink":"#2b1d2a","accent":"#b0245a","chip":"#ffffff","chipInk":"#2b1d2a"}},
+ {"id":"MP-005_side-hustles-from-home-list","eyebrow":"Side hustles from home","number":"11","title":"Legit Side Hustles You Can Start From Home","year":"BEGINNER FRIENDLY","cols":1,"cta":"Save for later",
+  "items":["Freelance writing","Virtual assistant","Selling digital products","Etsy printables shop","Pinterest manager","Online tutoring","Proofreading","Canva template design","Bookkeeping","Transcription","Social media management"],
+  "theme":{"bg":"#13283b","ink":"#f6efe3","accent":"#f2c14e","chip":"#1e3a52","chipInk":"#f6efe3"}},
+ {"id":"MP-006_christmas-printables-list","eyebrow":"Merry Christmas printables","number":"15","title":"Christmas Printable Ideas to Make This Year","year":"CHRISTMAS 2026","cols":1,"cta":"Save for the holidays",
+  "items":["Gift tags","Christmas cards","Wall art","Advent calendar","Christmas bingo","Coloring pages","Letter to Santa","Holiday planner","Gift list tracker","Recipe cards","Place cards","Merry Christmas banner","Countdown calendar","Kids activity pages","Thank-you cards"],
+  "theme":{"bg":"#1d3a2a","ink":"#f7f0e2","accent":"#e0b04a","chip":"#28503a","chipInk":"#f7f0e2"}}
+]

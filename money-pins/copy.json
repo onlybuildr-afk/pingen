@@ -1,14 +1,53 @@
 [
- {"id":"MP-001_side-hustles-from-home","keyword":"side hustles from home","pinterest_searches":4000,
-  "title":"9 Side Hustles From Home You Can Start This Month",
-  "description":"Side hustles from home that fit around a full-time job or kids: freelance writing, virtual assistant work, selling digital products and more. Each idea lists what you need to start and how much time it takes. Save this for your next side hustle idea.",
-  "alt_text":"Woman in a blue sweater working on a laptop at a home desk with plants and a mug."},
- {"id":"MP-002_etsy-digital-products","keyword":"etsy digital products","pinterest_searches":5000,
-  "title":"7 Etsy Digital Products Beginners Can Make",
-  "description":"Etsy digital products you can make once and sell again and again: digital planners, printable wall art, Canva templates, budget sheets and more. A beginner-friendly list of digital products to sell on Etsy, with tools you probably already have. Save this before you start.",
-  "alt_text":"Tablet showing a monthly digital planner on a white desk with pens, envelopes and a candle."},
- {"id":"MP-003_merry-christmas-printable","keyword":"merry christmas printable","pinterest_searches":7000,
-  "title":"Free Merry Christmas Printables to Frame",
-  "description":"Merry Christmas printables you can download, print and frame in minutes: hand-lettered signs, tree art and card designs for last-minute holiday decor. Print at home on card stock for an easy Christmas display. Save for the holidays.",
-  "alt_text":"Hand-painted Merry Christmas card with a watercolor tree beside a kraft gift, wax seal and paints on a wooden table."}
+ {
+  "id": "MP-001_side-hustles-from-home",
+  "keyword": "side hustles from home",
+  "pinterest_searches": 4000,
+  "title": "9 Side Hustles From Home You Can Start This Month",
+  "description": "Side hustles from home that fit around a full-time job or kids: freelance writing, virtual assistant work, selling digital products and more. Each idea lists what you need to start and how much time it takes. Save this for your next side hustle idea.",
+  "alt_text": "Woman in a blue sweater working on a laptop at a home desk with plants and a mug."
+ },
+ {
+  "id": "MP-002_etsy-digital-products",
+  "keyword": "etsy digital products",
+  "pinterest_searches": 5000,
+  "title": "7 Etsy Digital Products Beginners Can Make",
+  "description": "Etsy digital products you can make once and sell again and again: digital planners, printable wall art, Canva templates, budget sheets and more. A beginner-friendly list of digital products to sell on Etsy, with tools you probably already have. Save this before you start.",
+  "alt_text": "Tablet showing a monthly digital planner on a white desk with pens, envelopes and a candle."
+ },
+ {
+  "id": "MP-003_merry-christmas-printable",
+  "keyword": "merry christmas printable",
+  "pinterest_searches": 7000,
+  "title": "Free Merry Christmas Printables to Frame",
+  "description": "Merry Christmas printables you can download, print and frame in minutes: hand-lettered signs, tree art and card designs for last-minute holiday decor. Print at home on card stock for an easy Christmas display. Save for the holidays.",
+  "alt_text": "Hand-painted Merry Christmas card with a watercolor tree beside a kraft gift, wax seal and paints on a wooden table."
+ },
+ {
+  "id": "MP-004_etsy-digital-products-list",
+  "keyword": "etsy digital products",
+  "pinterest_searches": 5000,
+  "style": "list poster",
+  "title": "30 Digital Products to Sell on Etsy (2026 List)",
+  "description": "30 Etsy digital products you can create once and sell again: digital planners, budget trackers, printable wall art, Canva templates, Notion templates, kids activity sheets and more. A beginner-friendly list of digital products to sell on Etsy in 2026. Save this list.",
+  "alt_text": "Pink list poster titled 30 Digital Products to Sell on Etsy, with 30 numbered product ideas in two columns."
+ },
+ {
+  "id": "MP-005_side-hustles-from-home-list",
+  "keyword": "side hustles from home",
+  "pinterest_searches": 4000,
+  "style": "list poster",
+  "title": "11 Legit Side Hustles You Can Start From Home",
+  "description": "11 legit side hustles from home for beginners: freelance writing, virtual assistant work, selling digital products, Pinterest management, online tutoring, bookkeeping and more. Real work-from-home side hustles with no get-rich-quick promises. Save for later.",
+  "alt_text": "Navy list poster titled 11 Legit Side Hustles You Can Start From Home, with 11 numbered side hustle ideas."
+ },
+ {
+  "id": "MP-006_christmas-printables-list",
+  "keyword": "merry christmas printable",
+  "pinterest_searches": 7000,
+  "style": "list poster",
+  "title": "15 Christmas Printable Ideas to Make This Year",
+  "description": "15 Christmas printable ideas to make this year: gift tags, Christmas cards, wall art, an advent calendar, Christmas bingo, a letter to Santa and more. Great for your own holiday decor or to sell as Merry Christmas printables. Save for the holidays.",
+  "alt_text": "Dark green list poster titled 15 Christmas Printable Ideas to Make This Year, with 15 numbered printable ideas."
+ }
 ]
