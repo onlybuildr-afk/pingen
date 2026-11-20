@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "pulled": "2026-11-20",
+    "market": "US",
+    "sources": "trends.pinterest.com public overview (growth % = Pin-save MoM); pinterest.com/ideas pages ('people searched this', Pinterest-rounded, US). Logged-out view only: the Home Decor category filter and full keyword list need a Pinterest business login.",
+    "volume_note": "Pinterest 'people searched this' figures are Pinterest's own rounded counts, not Google volume."
+  },
+  "trend_signals": [
+    {"trend": "whimsy christmas decor", "growth": "+1,000%", "source": "Editors' Picks"},
+    {"trend": "Christmas Apartment Decor", "growth": "+500% MoM", "source": "Trends in the spotlight, Home Decor"},
+    {"trend": "Christmas Window Painting", "growth": "+300% MoM", "source": "Trends in the spotlight, Home Decor/Art"},
+    {"trend": "Seasonal & holiday decorations", "growth": "+64% MoM outbound clicks", "source": "Shopping trends"},
+    {"trend": "Placemats", "growth": "+52% MoM outbound clicks", "source": "Shopping trends"}
+  ],
+  "keywords": [
+    {"keyword": "christmas apartment", "people_searched": 9000, "cluster": "apartment", "url": "https://www.pinterest.com/ideas/christmas-apartment/930001893681/"},
+    {"keyword": "apartment christmas", "people_searched": 3000, "cluster": "apartment", "url": "https://pinterest.com/ideas/apartment-christmas/961173883777"},
+    {"keyword": "apartment decor christmas", "people_searched": 547, "cluster": "apartment", "url": "https://www.pinterest.com/ideas/apartment-decor-christmas/937418943555/"},
+    {"keyword": "small apartment decorating christmas", "people_searched": 442, "cluster": "apartment", "url": "https://pinterest.com/ideas/small-apartment-decorating-christmas/949482166415"},
+    {"keyword": "cozy christmas decor apartment", "people_searched": 259, "cluster": "apartment", "url": "https://ie.pinterest.com/ideas/cozy-christmas-decor-apartment/947681885454/"},
+    {"keyword": "nyc apartment christmas decor", "people_searched": 238, "cluster": "apartment", "url": "https://pinterest.com/ideas/nyc-apartment-christmas-decor/897510979661"},
+    {"keyword": "modern apartment christmas decor", "people_searched": 125, "cluster": "apartment", "url": "https://pinterest.com/ideas/modern-apartment-christmas-decor/929932207822"},
+    {"keyword": "christmas window painting ideas", "people_searched": 11000, "cluster": "window painting", "url": "https://pinterest.com/ideas/christmas-window-painting-ideas/956708851039"},
+    {"keyword": "christmas window painting ideas easy", "people_searched": 956, "cluster": "window painting", "url": "https://pinterest.com/ideas/christmas-window-painting-ideas-easy/955495336371"},
+    {"keyword": "white window painting christmas", "people_searched": 865, "cluster": "window painting", "url": "https://pinterest.com/ideas/white-window-painting-christmas/923471380726"},
+    {"keyword": "whimsical christmas decor ideas", "people_searched": 2800, "cluster": "whimsical", "url": "https://pinterest.com/ideas/whimsical-christmas-decor-ideas/936563465452"},
+    {"keyword": "mantle christmas decor ideas stocking", "people_searched": 548, "cluster": "mantel", "url": "https://www.pinterest.com/ideas/mantle-christmas-decor-ideas-stocking/933934072693/"},
+    {"keyword": "christmas trees on mantle", "people_searched": 379, "cluster": "mantel", "url": "https://pinterest.com/ideas/christmas-trees-on-mantle/958849515187"},
+    {"keyword": "pink christmas mantle", "people_searched": 298, "cluster": "mantel", "url": "https://pinterest.com/ideas/pink-christmas-mantle/900749675932"},
+    {"keyword": "narrow mantle christmas decor", "people_searched": 222, "cluster": "mantel", "url": "https://pinterest.com/ideas/narrow-mantle-christmas-decor/904542104210"},
+    {"keyword": "lighted garland on mantle", "people_searched": 147, "cluster": "mantel", "url": "https://pinterest.com/ideas/lighted-garland-on-mantle/928416580921"},
+    {"keyword": "elegant christmas mantle decor", "people_searched": 109, "cluster": "mantel", "url": "https://www.pinterest.com/ideas/elegant-christmas-mantle-decor/938826993849/"},
+    {"keyword": "christmas table placemats", "people_searched": 293, "cluster": "table", "url": "https://www.pinterest.com/ideas/christmas-table-placemats/955421703137/"}
+  ],
+  "competitor_boards": [
+    {"cluster": "apartment", "board": "35 Apartment Christmas Decorating Ideas", "owner": "my_happy_nook", "url": "https://www.pinterest.com/my_happy_nook/apartment-christmas-decorating-ideas/", "last_active": "2026-09"},
+    {"cluster": "apartment", "board": "Apartment Christmas Decor (148 pins)", "owner": "mozielife (Mozie)", "url": "https://www.pinterest.com/mozielife/apartment-christmas-decor/", "last_active": "2025-10"},
+    {"cluster": "apartment", "board": "25 Apartment Christmas Decor ideas", "owner": "nimorixdesign", "url": "https://pinterest.com/nimorixdesign/apartment-christmas-decor"},
+    {"cluster": "apartment", "board": "25 Apartment Christmas Decor ideas", "owner": "nestmoodpin", "url": "https://pinterest.com/nestmoodpin/apartment-christmas-decor"},
+    {"cluster": "window painting", "board": "Christmas window painting (151 pins)", "owner": "debbiesellew", "url": "https://www.pinterest.com/debbiesellew/christmas-window-painting/", "last_active": "2023-11"},
+    {"cluster": "window painting", "board": "Window Painting - Christmas (61 pins, business)", "owner": "dnnaditto", "url": "https://pinterest.com/dnnaditto/window-painting-christmas"},
+    {"cluster": "whimsical", "board": "Whimsical Christmas (27 pins)", "owner": "tismonica", "url": "https://www.pinterest.com/tismonica/whimsical-christmas/", "last_active": "2026-11"},
+    {"cluster": "whimsical", "board": "110 Whimsical Christmas ideas", "owner": "nancieann0509", "url": "https://www.pinterest.com/nancieann0509/whimsical-christmas/"},
+    {"cluster": "mantel", "board": "25 Christmas fireplace decor ideas", "owner": "farmhousehub", "url": "https://www.pinterest.com/farmhousehub/christmas-fireplace-decor/", "last_active": "2026-10"},
+    {"cluster": "mantel", "board": "66 Christmas mantel ideas", "owner": "farmhousehub", "url": "https://pinterest.com/farmhousehub/christmas-mantel"},
+    {"cluster": "mantel", "board": "760 CHRISTMAS FIREPLACE DECORATIONS", "owner": "roomsinbloom", "url": "https://pinterest.com/roomsinbloom/christmas-fireplace-decorations"},
+    {"cluster": "table", "board": "Christmas Table Settings (110, brand: linens)", "owner": "magiclinen", "url": "https://www.pinterest.com/magiclinen/christmas-table-settings/", "last_active": "2024-12"},
+    {"cluster": "table", "board": "83 Christmas placemats ideas", "owner": "jenniferbl1789", "url": "https://pinterest.com/jenniferbl1789/christmas-placemats"}
+  ],
+  "competitor_pins_fresh": [
+    {"cluster": "apartment", "title": "10 Cozy Christmas Apartment Decor Ideas for 2026", "date": "2026-11-12", "url": "https://pinterest.com/pin/67835538134998422"},
+    {"cluster": "apartment", "title": "20 Small Apartment Christmas Decor Ideas for a Cozy Holiday Home", "date": "2026-11-16", "url": "https://es.pinterest.com/pin/435582595236164163"},
+    {"cluster": "apartment", "title": "Console Table Decorating for Christmas", "date": "2026-09-26", "url": "https://pinterest.com/pin/776730267033585039"},
+    {"cluster": "whimsical", "title": "18 Magical Whimsical Christmas Decor Ideas To Copy Right Now", "date": "2026-11-11", "url": "https://mx.pinterest.com/pin/119063983898146853"},
+    {"cluster": "whimsical", "title": "Whimsy Christmas Decor Ideas to Make Your Home Magical!", "date": "2026-11-14", "url": "https://tr.pinterest.com/pin/253327547786523273"},
+    {"cluster": "whimsical", "title": "DIY Whimsical Christmas Decor", "date": "2026-11-14", "url": "https://pinterest.com/pin/309200330696542097"},
+    {"cluster": "whimsical", "title": "31+ DIY Whimsical Christmas Decor Ideas", "date": "2026-10-31", "url": "https://pinterest.com/pin/1036672407999449084"},
+    {"cluster": "whimsical", "title": "Whimsy Christmas Tree Decor Ideas 2026", "date": "2026-10-26", "url": "https://pinterest.com/pin/241787073741414766"},
+    {"cluster": "mantel", "title": "Lighted Gingerbread Village for a Burgundy and White Christmas Mantel", "date": "2026-11-06", "url": "https://pinterest.com/pin/434175220351188131"},
+    {"cluster": "table", "title": "Elegant Christmas Table Setting with Copper", "date": "2026-11-10", "url": "https://pinterest.com/pin/250512798024164627"}
+  ]
+}
