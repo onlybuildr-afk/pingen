@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "pulled": "2026-11-22",
+    "market": "US",
+    "volume": "Pinterest 'people searched this' (rounded by Pinterest) from pinterest.com/ideas pages",
+    "competition_method": "Top-10 Pinterest results per keyword (TinyFish search, site:pinterest.com, US). exact = pins/boards whose title contains the exact phrase; fresh = results dated 2026; filler = Pinterest ideas pages or shopping/product pins in the top 10 (a sign of few strong content pins). Rated Low / Medium / High by hand from these counts plus brand boards present.",
+    "engagement_note": "Pin saves/engagement are not visible logged out, so search volume is used as the demand signal."
+  },
+  "keywords": [
+    {"keyword": "entryway decor ideas", "volume": 46000, "exact": 1, "fresh": 3, "filler": 0, "competition": "Low-Medium", "note": "Top results are off-variants (winter, cottagecore, functional); one brand board (Phillip Jeffries)", "url": "https://www.pinterest.com/ideas/entryway-decor-ideas/947544304992/"},
+    {"keyword": "christmas window painting ideas", "volume": 11000, "exact": 1, "fresh": 0, "filler": 4, "competition": "Low", "note": "Only exact pin is from 2023; ideas pages fill the top 10; trend +300% MoM", "url": "https://pinterest.com/ideas/christmas-window-painting-ideas/956708851039"},
+    {"keyword": "guest bedroom ideas cozy modern", "volume": 10000, "exact": 0, "fresh": 6, "filler": 0, "competition": "Medium", "note": "No exact titles, but lots of fresh 'organic modern guest bedroom' pins", "url": "https://www.pinterest.com/ideas/guest-bedroom-ideas-cozy-modern/897067595862/"},
+    {"keyword": "cozy bedroom design", "volume": 9000, "exact": 0, "fresh": 5, "filler": 0, "competition": "Medium", "note": "Many 'cozy bedroom ideas' boards (50-170 pins)", "url": "https://pinterest.com/ideas/cozy-bedroom-design/896339798464"},
+    {"keyword": "christmas apartment", "volume": 9000, "exact": 3, "fresh": 4, "filler": 0, "competition": "Medium-High", "note": "Several Nov 2026 list pins already (see home-decor-trends-2026-11.json)", "url": "https://www.pinterest.com/ideas/christmas-apartment/930001893681/"},
+    {"keyword": "living room decorating ideas", "volume": 7000, "exact": 0, "fresh": 6, "filler": 0, "competition": "High", "note": "Fresh AI-style room pins plus Martha Stewart and Lulu & Georgia boards", "url": "https://pinterest.com/ideas/living-room-decorating-ideas/903342783769"},
+    {"keyword": "coffee table decorations", "volume": 6000, "exact": 3, "fresh": 4, "filler": 1, "competition": "Medium", "note": "Nov 7 2026 list pin '14 Simple Coffee Table Decor Ideas' ranks #1", "url": "https://pinterest.com/ideas/coffee-table-decorations/897254312205"},
+    {"keyword": "cozy dark bedroom", "volume": 5000, "exact": 1, "fresh": 1, "filler": 5, "competition": "Low", "note": "Half the top 10 are ideas pages; one fresh exact pin (Nov 1 2026)", "url": "https://pinterest.com/ideas/cozy-dark-bedroom/921085982799"},
+    {"keyword": "white coffee table decor", "volume": 3000, "exact": 0, "fresh": 0, "filler": 6, "competition": "Low", "note": "Results are furniture product pins; a styling pin would stand out", "url": "https://pinterest.com/ideas/white-coffee-table-decor/904225801516"},
+    {"keyword": "whimsical christmas decor ideas", "volume": 2800, "exact": 4, "fresh": 5, "filler": 0, "competition": "High", "note": "Many fresh Oct-Nov 2026 list pins", "url": "https://pinterest.com/ideas/whimsical-christmas-decor-ideas/936563465452"},
+    {"keyword": "cozy christmas decor living room", "volume": 2000, "exact": 3, "fresh": 3, "filler": 0, "competition": "Medium-High", "note": "farmhousehub board ranks", "url": "https://www.pinterest.com/ideas/cozy-christmas-decor-living-room/960676562079/"},
+    {"keyword": "long entryway decor", "volume": 2000, "exact": 1, "fresh": 3, "filler": 2, "competition": "Low", "note": "Exact-match boards are from 2020-2022", "url": "https://www.pinterest.com/ideas/long-entryway-decor/929683963227/"},
+    {"keyword": "winter home decor cozy", "volume": 1400, "exact": 2, "fresh": 3, "filler": 1, "competition": "Medium", "note": "Peaks Jan", "url": "https://pinterest.com/ideas/winter-home-decor-cozy/932612451584"},
+    {"keyword": "decor after christmas / after christmas decorating ideas", "volume": 2000, "exact": 5, "fresh": 4, "filler": 0, "competition": "Medium-High", "note": "Combined 1k + 1k; competitors already posted Nov 2026; peaks late Dec-Jan", "url": "https://www.pinterest.com/ideas/decor-after-christmas/903123207411/"}
+  ],
+  "extra_volumes_no_competition_check": [
+    {"keyword": "cute cozy bedroom ideas", "volume": 5000},
+    {"keyword": "warm and cozy bedroom", "volume": 4000},
+    {"keyword": "living room trends", "volume": 3000},
+    {"keyword": "spring entryway decor", "volume": 2000},
+    {"keyword": "tall entryway ideas", "volume": 1000},
+    {"keyword": "cozy aesthetic bedroom decor", "volume": 1000},
+    {"keyword": "winter interior design", "volume": 1000},
+    {"keyword": "brown and green living room decor", "volume": 964},
+    {"keyword": "boho coffee table decor", "volume": 939},
+    {"keyword": "christmas decorated living room", "volume": 866},
+    {"keyword": "decorating for winter after christmas", "volume": 844},
+    {"keyword": "warm entryway ideas", "volume": 736},
+    {"keyword": "organic modern coffee table decor", "volume": 735},
+    {"keyword": "red christmas living room", "volume": 684}
+  ]
+}
