@@ -1,0 +1,2073 @@
+{
+ "meta": {
+  "pulled": "2026-11-24",
+  "market": "US",
+  "volume": "Pinterest 'people searched this' (rounded by Pinterest) read from pinterest.com/ideas pages via TinyFish search snippets. Keywords without a visible count were skipped (volume null only for noted pages).",
+  "competition_method": "Top-10 Pinterest results (TinyFish search, site:pinterest.com, US). exact = results whose title contains the phrase; fresh = results dated 2026; filler = ideas pages/shopping pins. Rated Low/Medium/High by hand. Checked for the top 2-4 keywords per niche by volume (plus a few extras); other keywords have competition null (not checked).",
+  "trend_method": "trends.pinterest.com logged-out 'Trends in the spotlight' and Editors' Picks (MoM growth). These had no visible search count so are listed as trend_signals, not ranked keywords.",
+  "new_or_rising_rule": "new = keyword text not found in any earlier JSON in the repo, including the earlier 2026-11-24 and 2026-11-24-run2 pulls; rising = has Pinterest Trends MoM growth. Earlier same-day runs exist, so 'new' here means not in those either.",
+  "engagement_note": "Pin saves not visible logged out; search volume is the demand signal."
+ },
+ "niches": {
+  "home decor": {
+   "keywords": [
+    {
+     "keyword": "studio apartment ideas",
+     "volume": 628000,
+     "competition": "High",
+     "exact": 9,
+     "fresh": 3,
+     "filler": 4,
+     "note": "Head term; many 2026 listicles and big boards",
+     "url": "https://www.pinterest.com/ideas/studio-apartment-ideas/945181186992/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "apartment design",
+     "volume": 106000,
+     "competition": "High",
+     "exact": 5,
+     "fresh": 3,
+     "filler": 1,
+     "note": "Generic head term dominated by large design boards",
+     "url": "https://www.pinterest.com/ideas/apartment-design/931519952288/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "cozy christmas room",
+     "volume": 10000,
+     "competition": "Medium",
+     "exact": 5,
+     "fresh": 2,
+     "filler": 3,
+     "note": "Seasonal; most exact pins are 2019-2024, only 2 fresh",
+     "url": "https://www.pinterest.com/ideas/cozy-christmas-room/912232026666/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "indoor balcony ideas",
+     "volume": 3000,
+     "competition": "Low",
+     "exact": 5,
+     "fresh": 0,
+     "filler": 5,
+     "note": "Top results are old boards (7-12y) and ideas pages",
+     "url": "https://www.pinterest.com/ideas/indoor-balcony-ideas/918055801540/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "pink balcony",
+     "volume": 3000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/pink-balcony/921510241649/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "small cozy balcony ideas",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/small-cozy-balcony-ideas/921566996949/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "open balcony decor ideas",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/open-balcony-decor-ideas/947690621547/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "studio apartment with kitchen",
+     "volume": 2000,
+     "competition": "Low",
+     "exact": 4,
+     "fresh": 1,
+     "filler": 8,
+     "note": "Ideas pages fill the top 10; one fresh 2026 pin",
+     "url": "https://www.pinterest.com/ideas/studio-apartment-with-kitchen/914992303869/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "white christmas living room",
+     "volume": 1000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/white-christmas-living-room/913781749313/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "studio small apartment ideas",
+     "volume": 714,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/studio-small-apartment-ideas/912913290412/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "blue christmas room",
+     "volume": 630,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/blue-christmas-room/957038426385/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "entrance balcony ideas",
+     "volume": 532,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/entrance-balcony-ideas/915819637174/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "small balcony wall decor",
+     "volume": 374,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/small-balcony-wall-decor/938745900059/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "rental wall decor",
+     "volume": 343,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/rental-wall-decor/910467904591/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "cozy living rooms christmas",
+     "volume": 318,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/cozy-living-rooms-christmas/917338648608/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "small apartment decorating ideas on a budget",
+     "volume": 264,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/small-apartment-decorating-ideas-on-a-budget/909510920707/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "diy wall decor rental friendly",
+     "volume": 230,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/diy-wall-decor-rental-friendly/960950133910/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "renter friendly gallery wall",
+     "volume": 156,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/renter-friendly-gallery-wall/899367973659/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "cozy christmas room",
+     "volume": 10000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "indoor balcony ideas",
+     "volume": 3000,
+     "competition": "Low"
+    },
+    {
+     "keyword": "studio apartment with kitchen",
+     "volume": 2000,
+     "competition": "Low"
+    }
+   ],
+   "trend_signals": [
+    {
+     "keyword": "whimsy christmas decor",
+     "mom_pct": 900,
+     "source": "Editors Pick \"Throw a Whimsy Party\""
+    },
+    {
+     "keyword": "concrete garden crafts",
+     "mom_pct": 7000,
+     "source": "Spotlight #1, Gardening and Home Decor"
+    }
+   ]
+  },
+  "home organization": {
+   "keywords": [
+    {
+     "keyword": "bathroom closet organization",
+     "volume": 38000,
+     "competition": "Medium",
+     "exact": 8,
+     "fresh": 1,
+     "filler": 4,
+     "note": "Exact pins mostly 2016-2023; one 2026 board",
+     "url": "https://www.pinterest.com/ideas/bathroom-closet-organization/921401876415/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "how to organize",
+     "volume": 7000,
+     "competition": "Medium",
+     "exact": 5,
+     "fresh": 3,
+     "filler": 4,
+     "note": "Generic; mixed life/home organizing pins",
+     "url": "https://www.pinterest.com/ideas/how-to-organize/912525676270/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "pantry closet organization",
+     "volume": 3000,
+     "competition": "Medium",
+     "exact": 5,
+     "fresh": 4,
+     "filler": 4,
+     "note": "Several fresh pins (Nov 2026) and boards",
+     "url": "https://www.pinterest.com/ideas/pantry-closet-organization/908808393824/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "how to organise kitchen",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/how-to-organise-kitchen/902170405460/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "pantry cabinet organization ideas",
+     "volume": 981,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/pantry-cabinet-organization-ideas/945376592866/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "upper cabinet organization",
+     "volume": 959,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/upper-cabinet-organization/947388385066/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "deep bathroom closet organization",
+     "volume": 583,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/deep-bathroom-closet-organization/933605740399/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "closet declutter checklist",
+     "volume": 434,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/closet-declutter-checklist/928881355574/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "clean and organize",
+     "volume": 329,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/clean-and-organize/950489282122/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "how to organize a deep pantry",
+     "volume": 289,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/how-to-organize-a-deep-pantry/946705789433/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "kitchen clutter organization",
+     "volume": 242,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/kitchen-clutter-organization/944272318459/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "kitchen declutter organizing ideas",
+     "volume": 241,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/kitchen-declutter-organizing-ideas/950420474998/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "clear organization",
+     "volume": 226,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/clear-organization/943505303262/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "bathroom organization categories",
+     "volume": 131,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/bathroom-organization-categories/938461249065/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "deep corner pantry organization",
+     "volume": 106,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/deep-corner-pantry-organization/913238703007/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas home organization tips",
+     "volume": null,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "Page exists, updated 1d ago, but no visible count - excluded from volume ranking",
+     "url": "https://www.pinterest.com/ideas/christmas-home-organization-tips/956118993905/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "bathroom closet organization",
+     "volume": 38000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "how to organize",
+     "volume": 7000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "pantry closet organization",
+     "volume": 3000,
+     "competition": "Medium"
+    }
+   ],
+   "trend_signals": []
+  },
+  "fashion": {
+   "keywords": [
+    {
+     "keyword": "cold day outfits",
+     "volume": 114000,
+     "competition": "Low",
+     "exact": 5,
+     "fresh": 2,
+     "filler": 7,
+     "note": "Ideas pages fill most of top 10",
+     "url": "https://www.pinterest.com/ideas/cold-day-outfits/919620373512/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "brown suede boots outfit",
+     "volume": 40400,
+     "competition": "Medium",
+     "exact": 4,
+     "fresh": 3,
+     "filler": 7,
+     "note": "Fresh Sep-Nov 2026 pins exist; Pinterest Trends Editors Pick +10% MoM",
+     "url": "https://www.pinterest.com/ideas/brown-suede-boots-outfit/958989957204/",
+     "new_or_rising": "rising",
+     "trend_mom_pct": 10
+    },
+    {
+     "keyword": "cold weather outfits winter",
+     "volume": 14000,
+     "competition": "Low",
+     "exact": 4,
+     "fresh": 2,
+     "filler": 6,
+     "note": "Mostly ideas pages and old boards",
+     "url": "https://www.pinterest.com/ideas/cold-weather-outfits-winter/901212306080/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "snow outfits for women cold weather",
+     "volume": 9000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/snow-outfits-for-women-cold-weather/938200012985/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "cold weather outfits aesthetic",
+     "volume": 3000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/cold-weather-outfits-aesthetic/960583239467/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "outfits for winter cold weather",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/outfits-for-winter-cold-weather/902362193874/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "winter looks for women cold weather",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/winter-looks-for-women-cold-weather/942389935918/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "tall brown suede boots outfit",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/tall-brown-suede-boots-outfit/906218589909/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "light brown suede boots outfit",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/light-brown-suede-boots-outfit/920455579031/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas outfit brown boots",
+     "volume": 694,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-outfit-brown-boots/916345692305/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "light suede boots outfit",
+     "volume": 581,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/light-suede-boots-outfit/931521071699/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "cold day outfits aesthetic",
+     "volume": 510,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/cold-day-outfits-aesthetic/956169093977/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "brown boots outfit 2025",
+     "volume": 258,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/brown-boots-outfit-2025/921182131585/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "icy winter outfits",
+     "volume": 212,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/icy-winter-outfits/905959982435/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "athletic winter outfits cold weather",
+     "volume": 198,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/athletic-winter-outfits-cold-weather/949154508243/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "how to dress for snow weather",
+     "volume": 163,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/how-to-dress-for-snow-weather/948437194911/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "brown over the knee boots outfit",
+     "volume": 154,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/brown-over-the-knee-boots-outfit/933970889399/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "cold day outfits",
+     "volume": 114000,
+     "competition": "Low"
+    },
+    {
+     "keyword": "brown suede boots outfit",
+     "volume": 40400,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "cold weather outfits winter",
+     "volume": 14000,
+     "competition": "Low"
+    }
+   ],
+   "trend_signals": [
+    {
+     "keyword": "sheer and mesh tops",
+     "mom_pct": 1500,
+     "source": "Spotlight #3"
+    },
+    {
+     "keyword": "corduroy dresses and overalls",
+     "mom_pct": 600,
+     "source": "Spotlight #5"
+    },
+    {
+     "keyword": "fur coat outfit",
+     "mom_pct": 200,
+     "source": "Editors Pick \"Opera-Inspired Accessories\""
+    },
+    {
+     "keyword": "plaid skirt outfit",
+     "mom_pct": 5,
+     "source": "Editors Pick \"Skirt Season\""
+    },
+    {
+     "keyword": "brown suede boots outfit",
+     "mom_pct": 10,
+     "source": "Editors Pick \"Suede Styling\""
+    }
+   ]
+  },
+  "beauty": {
+   "keywords": [
+    {
+     "keyword": "skin care routine",
+     "volume": 1000000,
+     "competition": "High",
+     "exact": 7,
+     "fresh": 1,
+     "filler": 3,
+     "note": "Huge head term; many established routine pins",
+     "url": "https://www.pinterest.com/ideas/skin-care-routine/901218983470/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "black christmas nails",
+     "volume": 72000,
+     "competition": "Medium",
+     "exact": 7,
+     "fresh": 3,
+     "filler": 4,
+     "note": "Seasonal; 3 fresh 2026 pins, rest 2021-2024",
+     "url": "https://www.pinterest.com/ideas/black-christmas-nails/921550420110/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "winter makeup looks",
+     "volume": 42000,
+     "competition": "Medium",
+     "exact": 5,
+     "fresh": 3,
+     "filler": 3,
+     "note": "Fresh Sep 2026 trend pins (\"I'm cold\" blush, berry flush)",
+     "url": "https://www.pinterest.com/ideas/winter-makeup-looks/900949708042/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "cute christmas nail ideas",
+     "volume": 14000,
+     "competition": "Medium",
+     "exact": 4,
+     "fresh": 2,
+     "filler": 7,
+     "note": "Two Nov 16 2026 pins; ideas pages fill rest",
+     "url": "https://www.pinterest.com/ideas/cute-christmas-nail-ideas/912541406233/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "i'm cold makeup",
+     "volume": 11000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/i%E2%80%99m-cold-makeup/955402627383/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "best christmas nails",
+     "volume": 4000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/best-christmas-nails/937644136584/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "curly hair trends",
+     "volume": 3000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/curly-hair-trends/912026855664/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "winter hair color trends",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/winter-hair-color-trends/916741099834/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "hair color ideas for winter",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/hair-color-ideas-for-winter/926721531064/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "curly hair trends 2026",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/curly-hair-trends-2026/907346657405/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "im cold makeup tutorial",
+     "volume": 1000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/im-cold-makeup-tutorial/943856126607/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "hair colors for winter",
+     "volume": 1000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/hair-colors-for-winter/960995552857/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "curly haircuts 2026",
+     "volume": 1000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/curly-haircuts-2026/905984544536/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "cool winter hair color ideas",
+     "volume": 921,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/cool-winter-hair-color-ideas/929083080865/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "makeup for winter skin tone",
+     "volume": 651,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/makeup-for-winter-skin-tone/895079024544/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas nail ideas short nails",
+     "volume": 515,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-nail-ideas-short-nails/901882366465/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "korean winter makeup",
+     "volume": 505,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/korean-winter-makeup/949633623866/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "winter glam makeup looks",
+     "volume": 357,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/winter-glam-makeup-looks/959122776389/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "black christmas nails",
+     "volume": 72000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "winter makeup looks",
+     "volume": 42000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "cute christmas nail ideas",
+     "volume": 14000,
+     "competition": "Medium"
+    }
+   ],
+   "trend_signals": [
+    {
+     "keyword": "colorful acrylic nails",
+     "mom_pct": 2000,
+     "source": "Spotlight #2"
+    },
+    {
+     "keyword": "cat eye fall nails",
+     "mom_pct": 40,
+     "source": "Editors Pick \"Reflective Nails\""
+    }
+   ]
+  },
+  "food/recipes": {
+   "keywords": [
+    {
+     "keyword": "christmas potluck",
+     "volume": 12000,
+     "competition": "High",
+     "exact": 9,
+     "fresh": 3,
+     "filler": 4,
+     "note": "Many fresh Oct-Nov 2026 listicles",
+     "url": "https://www.pinterest.com/ideas/christmas-potluck/929917121512/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "different christmas dinner ideas",
+     "volume": 2000,
+     "competition": "Low",
+     "exact": 2,
+     "fresh": 1,
+     "filler": 7,
+     "note": "Ideas pages dominate; few real pins",
+     "url": "https://www.pinterest.com/ideas/different-christmas-dinner-ideas/911801264221/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas potluck ideas main dishes",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-potluck-ideas-main-dishes/946980467327/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "best christmas cookie recipes",
+     "volume": 963,
+     "competition": "High",
+     "exact": 8,
+     "fresh": 4,
+     "filler": 1,
+     "note": "Many exact listicles, fresh Nov 2026 pins",
+     "url": "https://www.pinterest.com/ideas/best-christmas-cookie-recipes/920079848855/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "work christmas potluck ideas",
+     "volume": 961,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/work-christmas-potluck-ideas/953534465096/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "no bake christmas",
+     "volume": 654,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/no-bake-christmas/938526108838/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "easy dinner recipes simple",
+     "volume": 525,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/easy-dinner-recipes-simple/938512839753/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "casserole recipes for thanksgiving",
+     "volume": 391,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/casserole-recipes-for-thanksgiving/908636861456/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "no bake christmas appetizers",
+     "volume": 295,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/no-bake-christmas-appetizers/954941501987/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "heavy appetizers christmas",
+     "volume": 288,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/heavy-appetizers-christmas/921908209077/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas dessert appetizers",
+     "volume": 192,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-dessert-appetizers/909287898065/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "day after thanksgiving recipes",
+     "volume": 191,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/day-after-thanksgiving-recipes/955565400185/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "easy dinner recipes for four",
+     "volume": 187,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/easy-dinner-recipes-for-four/952583856841/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "best christmas cookie recipes ever",
+     "volume": 186,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/best-christmas-cookie-recipes-ever/947834754100/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "easy dinner recipes for 10 people",
+     "volume": 143,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/easy-dinner-recipes-for-10-people/921839194247/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "super easy dinner meals",
+     "volume": 131,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/super-easy-dinner-meals/952668246555/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "different christmas dinner ideas",
+     "volume": 2000,
+     "competition": "Low"
+    }
+   ],
+   "trend_signals": []
+  },
+  "diy & crafts": {
+   "keywords": [
+    {
+     "keyword": "small christmas crochet",
+     "volume": 2000,
+     "competition": "Low",
+     "exact": 3,
+     "fresh": 0,
+     "filler": 9,
+     "note": "Top 10 is almost all ideas pages; no 2026 pins",
+     "url": "https://www.pinterest.com/ideas/small-christmas-crochet/936838296367/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas yarn crafts",
+     "volume": 2000,
+     "competition": "Medium",
+     "exact": 7,
+     "fresh": 2,
+     "filler": 2,
+     "note": "Two Oct 2026 pins; older boards otherwise",
+     "url": "https://www.pinterest.com/ideas/christmas-yarn-crafts/913179855017/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "crochet mini stocking",
+     "volume": 2000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/crochet-mini-stocking/961301316349/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "diy cinnamon ornaments",
+     "volume": 724,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/diy-cinnamon-ornaments/903118676513/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "paint inside ornaments diy",
+     "volume": 428,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/paint-inside-ornaments-diy/941467222088/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "no sew christmas amigurumi",
+     "volume": 313,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/no-sew-christmas-amigurumi/948696875011/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "3d ornaments diy",
+     "volume": 280,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/3d-ornaments-diy/918193547157/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "wood circle ornaments diy",
+     "volume": 254,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wood-circle-ornaments-diy/942590640890/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "mini ornaments diy craft ideas",
+     "volume": 212,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/mini-ornaments-diy-craft-ideas/917492204055/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "julekranse diy",
+     "volume": 207,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/julekranse-diy/903356715792/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "crafts with ornaments",
+     "volume": 155,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/crafts-with-ornaments/914065235809/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "make a wreath from branches",
+     "volume": 115,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/make-a-wreath-from-branches/921768922798/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "plastic disc ornaments diy",
+     "volume": 89,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/plastic-disc-ornaments-diy/914379776593/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "advent candle ideas diy",
+     "volume": 85,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/advent-candle-ideas-diy/920183681372/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "diy pressed flower ornament",
+     "volume": 69,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/diy-pressed-flower-ornament/938667117125/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "diy snowman scarf",
+     "volume": 63,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/diy-snowman-scarf/949389976794/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "ornament crafts with pictures",
+     "volume": 61,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/ornament-crafts-with-pictures/926660831029/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "small christmas crochet",
+     "volume": 2000,
+     "competition": "Low"
+    },
+    {
+     "keyword": "christmas yarn crafts",
+     "volume": 2000,
+     "competition": "Medium"
+    }
+   ],
+   "trend_signals": [
+    {
+     "keyword": "index card storage systems",
+     "mom_pct": 1000,
+     "source": "Spotlight #4"
+    },
+    {
+     "keyword": "concrete garden crafts",
+     "mom_pct": 7000,
+     "source": "Spotlight #1, Gardening and Home Decor"
+    }
+   ]
+  },
+  "wedding": {
+   "keywords": [
+    {
+     "keyword": "2027 wedding trends",
+     "volume": 24600,
+     "competition": "High",
+     "exact": 6,
+     "fresh": 5,
+     "filler": 3,
+     "note": "Many fresh Oct-Nov 2026 pins",
+     "url": "https://www.pinterest.com/ideas/2027-wedding-trends/907490185482/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "blue and yellow wedding",
+     "volume": 16000,
+     "competition": "Medium",
+     "exact": 8,
+     "fresh": 0,
+     "filler": 3,
+     "note": "Many exact titles but none fresh (2016-2023) - freshness gap",
+     "url": "https://www.pinterest.com/ideas/blue-and-yellow-wedding/949004188811/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "2027 wedding colors",
+     "volume": 5500,
+     "competition": "Low",
+     "exact": 4,
+     "fresh": 3,
+     "filler": 6,
+     "note": "Ideas pages fill top 10; a few Oct 2026 pins",
+     "url": "https://www.pinterest.com/ideas/2027-wedding-colors/924935271758/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "wedding 2027 trends",
+     "volume": 5000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wedding-2027-trends/944476928528/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "2027 wedding",
+     "volume": 4000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/2027-wedding/933214428807/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "2027 wedding trends color schemes",
+     "volume": 1700,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/2027-wedding-trends-color-schemes/936693645155/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "wedding 2027 ideas",
+     "volume": 1000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wedding-2027-ideas/928433783571/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "spring 2027 wedding colors",
+     "volume": 1000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/spring-2027-wedding-colors/925175867971/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "2027 wedding themes",
+     "volume": 737,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/2027-wedding-themes/927992747177/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "2027 wedding decor",
+     "volume": 492,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/2027-wedding-decor/898148542829/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "wedding theme ideas 2027",
+     "volume": 212,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wedding-theme-ideas-2027/940481896987/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "sage green and burnt orange wedding bridesmaid dress",
+     "volume": 158,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/sage-green-and-burnt-orange-wedding-bridesmaid-dress/947940659936/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "white and gold wedding bridesmaid",
+     "volume": 97,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/white-and-gold-wedding-bridesmaid/930907326423/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "winery wedding bridesmaids dresses",
+     "volume": 92,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/winery-wedding-bridesmaids-dresses/955601642931/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "pink and coral bridesmaid dresses",
+     "volume": 85,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/pink-and-coral-bridesmaid-dresses/895663419610/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "bridesmaid dresses green sage color palettes",
+     "volume": 60,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/bridesmaid-dresses-green-sage-color-palettes/898744747869/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "blue and yellow wedding",
+     "volume": 16000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "2027 wedding colors",
+     "volume": 5500,
+     "competition": "Low"
+    }
+   ],
+   "trend_signals": []
+  },
+  "fitness/wellness": {
+   "keywords": [
+    {
+     "keyword": "at home pilates workout",
+     "volume": 16000,
+     "competition": "High",
+     "exact": 8,
+     "fresh": 4,
+     "filler": 3,
+     "note": "Many fresh 2026 pins",
+     "url": "https://www.pinterest.com/ideas/at-home-pilates-workout/944872395931/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "pilates workout routine",
+     "volume": 8000,
+     "competition": "High",
+     "exact": 9,
+     "fresh": 5,
+     "filler": 2,
+     "note": "Many fresh 2026 pins",
+     "url": "https://www.pinterest.com/ideas/pilates-workout-routine/949677663374/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "functional workouts for women",
+     "volume": 996,
+     "competition": "Low",
+     "exact": 1,
+     "fresh": 1,
+     "filler": 9,
+     "note": "Ideas pages fill top 10; one pin 4 days old",
+     "url": "https://www.pinterest.com/ideas/functional-workouts-for-women/896629503490/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "free pilates workout",
+     "volume": 835,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/free-pilates-workout/902569656657/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "2026 workout calendar",
+     "volume": 810,
+     "competition": "Low",
+     "exact": 4,
+     "fresh": 2,
+     "filler": 5,
+     "note": "New-year seasonal; mostly ideas pages and boards",
+     "url": "https://www.pinterest.com/ideas/2026-workout-calendar/934918703256/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "beginner reformer pilates",
+     "volume": 344,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/beginner-reformer-pilates/904935051414/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "2026 workout plan",
+     "volume": 297,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/2026-workout-plan/940971990457/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "30 minute pilates workout",
+     "volume": 282,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/30-minute-pilates-workout/945147423324/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "beginner pilates reformer workout",
+     "volume": 261,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/beginner-pilates-reformer-workout/915936503516/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "recomposition workout plan",
+     "volume": 193,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/recomposition-workout-plan/918441705480/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "classical pilates mat sequence",
+     "volume": 190,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/classical-pilates-mat-sequence/920791736897/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "wall leg workout",
+     "volume": 165,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wall-leg-workout/929001444313/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "wall pilates for belly",
+     "volume": 139,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wall-pilates-for-belly/912816809409/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "wall pilates workout for belly",
+     "volume": 121,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/wall-pilates-workout-for-belly/933752226942/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "fitness goals ideas",
+     "volume": 111,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/fitness-goals-ideas/948103396919/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "30 day wall pilates challenge free",
+     "volume": 105,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/30-day-wall-pilates-challenge-free/950498961152/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "new years eve workout",
+     "volume": 102,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/new-years-eve-workout/960126131199/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "january fitness",
+     "volume": 100,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/january-fitness/939542045963/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "functional workouts for women",
+     "volume": 996,
+     "competition": "Low"
+    },
+    {
+     "keyword": "2026 workout calendar",
+     "volume": 810,
+     "competition": "Low"
+    }
+   ],
+   "trend_signals": []
+  },
+  "gift ideas": {
+   "keywords": [
+    {
+     "keyword": "christmas gifts for girlfriend",
+     "volume": 25000,
+     "competition": "Medium",
+     "exact": 8,
+     "fresh": 1,
+     "filler": 6,
+     "note": "Mostly ideas pages; one Oct 2026 pin",
+     "url": "https://www.pinterest.com/ideas/christmas-gifts-for-girlfriend/949852842373/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "girlfriend christmas gifts",
+     "volume": 13000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/girlfriend-christmas-gifts/938057648438/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas gift for girlfriend",
+     "volume": 12000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-gift-for-girlfriend/940640516646/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "boyfriend stocking stuffers",
+     "volume": 5000,
+     "competition": "Low",
+     "exact": 2,
+     "fresh": 1,
+     "filler": 9,
+     "note": "Ideas pages fill the top 10; one Nov 2026 pin",
+     "url": "https://www.pinterest.com/ideas/boyfriend-stocking-stuffers/912917693684/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "stocking stuffers for boyfriend",
+     "volume": 5000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/stocking-stuffers-for-boyfriend/933967500069/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "girlfriend christmas gifts ideas",
+     "volume": 5000,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/girlfriend-christmas-gifts-ideas/923781695373/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "male stocking stuffers",
+     "volume": 874,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/male-stocking-stuffers/905581515805/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "christmas presents for her",
+     "volume": 777,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-presents-for-her/960810213899/",
+     "new_or_rising": "seen_before"
+    },
+    {
+     "keyword": "boyfriend stocking stuffers ideas",
+     "volume": 691,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/boyfriend-stocking-stuffers-ideas/961782930525/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "gift ideas for male coworkers",
+     "volume": 631,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/gift-ideas-for-male-coworkers/904924460029/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas gifts for male coworkers",
+     "volume": 480,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-gifts-for-male-coworkers/922483346299/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "christmas gifts ideas for girlfriend",
+     "volume": 395,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/christmas-gifts-ideas-for-girlfriend/958040274912/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "stocking stuffer ideas for boyfriend",
+     "volume": 315,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/stocking-stuffer-ideas-for-boyfriend/958251100044/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "staff christmas gift ideas from boss",
+     "volume": 155,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/staff-christmas-gift-ideas-from-boss/896963535851/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "mens stocking fillers",
+     "volume": 147,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/mens-stocking-fillers/950539463247/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "cute christmas gift ideas for girlfriend",
+     "volume": 104,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/cute-christmas-gift-ideas-for-girlfriend/914422821433/",
+     "new_or_rising": "new"
+    },
+    {
+     "keyword": "guy coworker christmas gift ideas",
+     "volume": 102,
+     "competition": null,
+     "exact": null,
+     "fresh": null,
+     "filler": null,
+     "note": "",
+     "url": "https://www.pinterest.com/ideas/guy-coworker-christmas-gift-ideas/956694827108/",
+     "new_or_rising": "new"
+    }
+   ],
+   "top_winners": [
+    {
+     "keyword": "christmas gifts for girlfriend",
+     "volume": 25000,
+     "competition": "Medium"
+    },
+    {
+     "keyword": "boyfriend stocking stuffers",
+     "volume": 5000,
+     "competition": "Low"
+    }
+   ],
+   "trend_signals": []
+  }
+ },
+ "top_winners_all": [
+  {
+   "niche": "fashion",
+   "keyword": "cold day outfits",
+   "volume": 114000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/cold-day-outfits/919620373512/"
+  },
+  {
+   "niche": "beauty",
+   "keyword": "black christmas nails",
+   "volume": 72000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/black-christmas-nails/921550420110/"
+  },
+  {
+   "niche": "beauty",
+   "keyword": "winter makeup looks",
+   "volume": 42000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/winter-makeup-looks/900949708042/"
+  },
+  {
+   "niche": "fashion",
+   "keyword": "brown suede boots outfit",
+   "volume": 40400,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/brown-suede-boots-outfit/958989957204/"
+  },
+  {
+   "niche": "home organization",
+   "keyword": "bathroom closet organization",
+   "volume": 38000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/bathroom-closet-organization/921401876415/"
+  },
+  {
+   "niche": "gift ideas",
+   "keyword": "christmas gifts for girlfriend",
+   "volume": 25000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/christmas-gifts-for-girlfriend/949852842373/"
+  },
+  {
+   "niche": "wedding",
+   "keyword": "blue and yellow wedding",
+   "volume": 16000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/blue-and-yellow-wedding/949004188811/"
+  },
+  {
+   "niche": "fashion",
+   "keyword": "cold weather outfits winter",
+   "volume": 14000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/cold-weather-outfits-winter/901212306080/"
+  },
+  {
+   "niche": "beauty",
+   "keyword": "cute christmas nail ideas",
+   "volume": 14000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/cute-christmas-nail-ideas/912541406233/"
+  },
+  {
+   "niche": "home decor",
+   "keyword": "cozy christmas room",
+   "volume": 10000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/cozy-christmas-room/912232026666/"
+  },
+  {
+   "niche": "home organization",
+   "keyword": "how to organize",
+   "volume": 7000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/how-to-organize/912525676270/"
+  },
+  {
+   "niche": "wedding",
+   "keyword": "2027 wedding colors",
+   "volume": 5500,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/2027-wedding-colors/924935271758/"
+  },
+  {
+   "niche": "gift ideas",
+   "keyword": "boyfriend stocking stuffers",
+   "volume": 5000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/boyfriend-stocking-stuffers/912917693684/"
+  },
+  {
+   "niche": "home decor",
+   "keyword": "indoor balcony ideas",
+   "volume": 3000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/indoor-balcony-ideas/918055801540/"
+  },
+  {
+   "niche": "home organization",
+   "keyword": "pantry closet organization",
+   "volume": 3000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/pantry-closet-organization/908808393824/"
+  },
+  {
+   "niche": "home decor",
+   "keyword": "studio apartment with kitchen",
+   "volume": 2000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/studio-apartment-with-kitchen/914992303869/"
+  },
+  {
+   "niche": "food/recipes",
+   "keyword": "different christmas dinner ideas",
+   "volume": 2000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/different-christmas-dinner-ideas/911801264221/"
+  },
+  {
+   "niche": "diy & crafts",
+   "keyword": "small christmas crochet",
+   "volume": 2000,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/small-christmas-crochet/936838296367/"
+  },
+  {
+   "niche": "diy & crafts",
+   "keyword": "christmas yarn crafts",
+   "volume": 2000,
+   "competition": "Medium",
+   "url": "https://www.pinterest.com/ideas/christmas-yarn-crafts/913179855017/"
+  },
+  {
+   "niche": "fitness/wellness",
+   "keyword": "functional workouts for women",
+   "volume": 996,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/functional-workouts-for-women/896629503490/"
+  },
+  {
+   "niche": "fitness/wellness",
+   "keyword": "2026 workout calendar",
+   "volume": 810,
+   "competition": "Low",
+   "url": "https://www.pinterest.com/ideas/2026-workout-calendar/934918703256/"
+  }
+ ]
+}

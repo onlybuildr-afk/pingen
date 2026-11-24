@@ -1,0 +1,1614 @@
+{
+ "meta": {
+  "pulled": "2026-11-24",
+  "market": "US",
+  "volume": "Pinterest 'people searched this' (rounded by Pinterest) from pinterest.com/ideas pages found via TinyFish search; keywords without a visible count were skipped",
+  "method": "Seed searches (include_domains=pinterest.com, US) per niche; competition = top-10 results of a site:pinterest.com exact-phrase search: exact = titles containing the phrase, fresh = results dated 2026, filler = Pinterest ideas pages/shopping pins. Rated Low / Low-Medium / Medium / High by hand. Only top keywords checked ('not checked' otherwise); rows sourced from earlier repo files reuse their ratings.",
+  "growth_note": "trends.pinterest.com is not reachable logged-out via search, so MoM % is only given where a repo file or Pinterest newsroom reports it. Beauty signals (Pinterest Beauty Trend Report 2026): mocha balayage hair +949%, soft copper blonde +845%, cherry cola brunette hair +788%. Holiday: Mahjong +252%, luxury Christmas wrapping paper +246% (Pinterest newsroom, 2026-11-12) - no volume visible, so not listed as keywords.",
+  "winner_rule": "volume >= 2,000 and competition Low / Low-Medium / Medium",
+  "previous_run": "none in keywords-daily/; compared against home-decor-*, home-organization-*, evergreen-seeds, beauty-research files (new_or_rising: new / repeat / rising)"
+ },
+ "home_decor": {
+  "keywords": [
+   {
+    "keyword": "small bedroom",
+    "volume": 363000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Head term, not competition-checked",
+    "url": "https://www.pinterest.com/ideas/small-bedroom/911666456266",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "small bedroom designs",
+    "volume": 124000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Not competition-checked",
+    "url": "https://www.pinterest.com/ideas/small-bedroom-designs/899185249555",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "entryway decor ideas",
+    "volume": 46000,
+    "competition": "Low-Medium",
+    "exact": 1,
+    "fresh": 3,
+    "filler": 0,
+    "note": "Off-variant top results; one brand board",
+    "url": "https://www.pinterest.com/ideas/entryway-decor-ideas/947544304992/",
+    "new_or_rising": "repeat",
+    "source": "repo:home-decor-low-competition-2026-11.json (2026-11-22)"
+   },
+   {
+    "keyword": "christmas window painting ideas",
+    "volume": 11000,
+    "competition": "Low",
+    "exact": 1,
+    "fresh": 0,
+    "filler": 4,
+    "note": "Only exact pin is 2023; trend +300% MoM (earlier file)",
+    "url": "https://www.pinterest.com/ideas/christmas-window-painting-ideas/956708851039",
+    "new_or_rising": "rising (+300% MoM)",
+    "source": "repo:home-decor-low-competition-2026-11.json (2026-11-22)"
+   },
+   {
+    "keyword": "guest bedroom ideas cozy modern",
+    "volume": 10000,
+    "competition": "Medium",
+    "exact": 0,
+    "fresh": 6,
+    "filler": 0,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/guest-bedroom-ideas-cozy-modern/897067595862",
+    "new_or_rising": "repeat",
+    "source": "repo:home-decor-low-competition-2026-11.json (2026-11-22)"
+   },
+   {
+    "keyword": "cozy bedroom design",
+    "volume": 9000,
+    "competition": "Medium",
+    "exact": 0,
+    "fresh": 5,
+    "filler": 0,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/cozy-bedroom-design/896339798464",
+    "new_or_rising": "repeat",
+    "source": "repo:home-decor-low-competition-2026-11.json (2026-11-22)"
+   },
+   {
+    "keyword": "christmas apartment",
+    "volume": 9000,
+    "competition": "Medium-High",
+    "exact": 3,
+    "fresh": 4,
+    "filler": 0,
+    "note": "Seasonal; fresh Nov 2026 list pins",
+    "url": "https://www.pinterest.com/ideas/christmas-apartment/930001893681",
+    "new_or_rising": "repeat",
+    "source": "repo:home-decor-low-competition-2026-11.json (2026-11-22)"
+   },
+   {
+    "keyword": "aesthetic small bedroom",
+    "volume": 7000,
+    "competition": "Low",
+    "exact": 4,
+    "fresh": 1,
+    "filler": 7,
+    "note": "Mostly ideas pages; 1 fresh pin (Oct 2026), no brand boards",
+    "url": "https://www.pinterest.com/ideas/aesthetic-small-bedroom/946917758872",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "cozy dark bedroom",
+    "volume": 5000,
+    "competition": "Low",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Checked in earlier file",
+    "url": null,
+    "new_or_rising": "repeat",
+    "source": "repo:home-decor-low-competition-2026-11.json (2026-11-22)"
+   },
+   {
+    "keyword": "extremely small bedroom ideas",
+    "volume": 4000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/extremely-small-bedroom-ideas/924753471999",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "big balcony decor",
+    "volume": 2000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/big-balcony-decor/911154920425",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "modern balcony decor",
+    "volume": 1000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/modern-balcony-decor/934218522206",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "apartment therapy small spaces",
+    "volume": 1000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/apartment-therapy-small-spaces/948920872723",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "wall decor renter friendly",
+    "volume": 917,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Renter-friendly seed: low volume but evergreen",
+    "url": "https://www.pinterest.com/ideas/wall-decor-renter-friendly/944888884127",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "small bedroom with double bed",
+    "volume": 907,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/small-bedroom-with-double-bed/925546058168",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "one bedroom studio apartment",
+    "volume": 593,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/one-bedroom-studio-apartment/919796577844",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "studio apartment arrangement ideas",
+    "volume": 266,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/studio-apartment-arrangement-ideas/907409359377",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": [
+   {
+    "keyword": "entryway decor ideas",
+    "volume": 46000,
+    "competition": "Low-Medium"
+   },
+   {
+    "keyword": "christmas window painting ideas",
+    "volume": 11000,
+    "competition": "Low"
+   },
+   {
+    "keyword": "guest bedroom ideas cozy modern",
+    "volume": 10000,
+    "competition": "Medium"
+   },
+   {
+    "keyword": "cozy bedroom design",
+    "volume": 9000,
+    "competition": "Medium"
+   },
+   {
+    "keyword": "aesthetic small bedroom",
+    "volume": 7000,
+    "competition": "Low"
+   }
+  ]
+ },
+ "home_organization": {
+  "keywords": [
+   {
+    "keyword": "garage organization ideas",
+    "volume": 262000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Not checked",
+    "url": "https://www.pinterest.com/ideas/garage-organization-ideas/926691062080",
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "laundry room organization",
+    "volume": 181000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Not checked",
+    "url": "https://www.pinterest.com/ideas/laundry-room-organization/905649106203",
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "bathroom closet organization",
+    "volume": 35000,
+    "competition": "Low-Medium",
+    "exact": null,
+    "fresh": 1,
+    "filler": 3,
+    "note": "Top boards 2016/2023; 1 fresh 2026 pin",
+    "url": "https://www.pinterest.com/ideas/bathroom-closet-organization/921401876415",
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "small garage organization",
+    "volume": 10000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/small-garage-organization/898317945235",
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "small apartment organization",
+    "volume": 9000,
+    "competition": "Medium",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Several fresh Aug-Sep 2026 pins",
+    "url": "https://www.pinterest.com/ideas/small-apartment-organization/911168818198",
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "ikea kitchen organization",
+    "volume": 8000,
+    "competition": "Low-Medium",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": null,
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "bathroom organizer ideas",
+    "volume": 7000,
+    "competition": "Medium-High",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": null,
+    "new_or_rising": "repeat",
+    "source": "repo:home-organization-keywords-2026-11.json"
+   },
+   {
+    "keyword": "closet organization ideas aesthetic",
+    "volume": 4000,
+    "competition": "Low",
+    "exact": 5,
+    "fresh": 0,
+    "filler": 7,
+    "note": "No fresh pins; 7 of 10 are ideas pages",
+    "url": "https://www.pinterest.com/ideas/closet-organization-ideas-aesthetic/919321255569",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "organizing home ideas",
+    "volume": 462,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/organizing-home-ideas/946943759088",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "realistic home organization",
+    "volume": 148,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/realistic-home-organization/939744238804",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "top of closet organization ideas",
+    "volume": 286,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/top-of-closet-organization-ideas/932604935777",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": [
+   {
+    "keyword": "bathroom closet organization",
+    "volume": 35000,
+    "competition": "Low-Medium"
+   },
+   {
+    "keyword": "small apartment organization",
+    "volume": 9000,
+    "competition": "Medium"
+   },
+   {
+    "keyword": "ikea kitchen organization",
+    "volume": 8000,
+    "competition": "Low-Medium"
+   },
+   {
+    "keyword": "closet organization ideas aesthetic",
+    "volume": 4000,
+    "competition": "Low"
+   }
+  ]
+ },
+ "fashion": {
+  "keywords": [
+   {
+    "keyword": "winter 2026 fashion trends",
+    "volume": 45900,
+    "competition": "Medium",
+    "exact": 4,
+    "fresh": 1,
+    "filler": 7,
+    "note": "Mostly ideas pages; 1 fresh pin (Sep 2026)",
+    "url": "https://www.pinterest.com/ideas/winter-2026-fashion-trends/938650377158",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter 2026 outfits",
+    "volume": 37000,
+    "competition": "Low",
+    "exact": 3,
+    "fresh": 0,
+    "filler": 8,
+    "note": "No dated 2026 pins in top 10; 8 ideas pages",
+    "url": "https://www.pinterest.com/ideas/winter-2026-outfits/898103349841",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "2026 winter outfits",
+    "volume": 20000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Same SERP as 'winter 2026 outfits'",
+    "url": "https://www.pinterest.com/ideas/2026-winter-outfits/953522176260",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "casual interview outfits women",
+    "volume": 20000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Evergreen; not checked",
+    "url": "https://www.pinterest.com/ideas/casual-interview-outfits-women/929476926190",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter 2026 fashion trends women",
+    "volume": 6700,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-2026-fashion-trends-women/935606101317",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "aesthetic casual outfits for women",
+    "volume": 3000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/aesthetic-casual-outfits-for-women/941166933023",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "aesthetic fall outfit",
+    "volume": 3000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Fall tail-off; seasonal decline",
+    "url": "https://www.pinterest.com/ideas/aesthetic-fall-outfit/927803118523",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "family christmas party outfits",
+    "volume": 2000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Seasonal peak now",
+    "url": "https://www.pinterest.com/ideas/family-christmas-party-outfits/954156878484",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "smart casual outfit ideas for women",
+    "volume": 1000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/smart-casual-outfit-ideas-for-women/894790140135",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter 2026 coat trends",
+    "volume": 762,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-2026-coat-trends/900915188741",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "christmas party outfits funny",
+    "volume": 762,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/christmas-party-outfits-funny/898946497555",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "house christmas party outfit",
+    "volume": 529,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/house-christmas-party-outfit/911877971930",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "fall outfits aesthetic 2026",
+    "volume": 443,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/fall-outfits-aesthetic-2026/934873894756",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": [
+   {
+    "keyword": "winter 2026 fashion trends",
+    "volume": 45900,
+    "competition": "Medium"
+   },
+   {
+    "keyword": "winter 2026 outfits",
+    "volume": 37000,
+    "competition": "Low"
+   }
+  ]
+ },
+ "beauty": {
+  "keywords": [
+   {
+    "keyword": "winter nails 2026",
+    "volume": 134000,
+    "competition": "High",
+    "exact": 9,
+    "fresh": 4,
+    "filler": 3,
+    "note": "Many dated Jan 2026 boards + fresh Nov pins",
+    "url": "https://www.pinterest.com/ideas/winter-nails-2026/914774338469",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "easy christmas makeup",
+    "volume": 6000,
+    "competition": "Low",
+    "exact": 2,
+    "fresh": 1,
+    "filler": 6,
+    "note": "Mostly ideas pages; 1 fresh pin",
+    "url": "https://www.pinterest.com/ideas/easy-christmas-makeup/946609240960",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter hair color trends",
+    "volume": 2000,
+    "competition": "Medium",
+    "exact": 2,
+    "fresh": 4,
+    "filler": 1,
+    "note": "Fresh Sep-Nov 2026 list pins",
+    "url": "https://www.pinterest.com/ideas/winter-hair-color-trends/916741099834",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "soft christmas makeup",
+    "volume": 477,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/soft-christmas-makeup/894687687869",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "warm winter hair color",
+    "volume": 388,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/warm-winter-hair-color/936247270140",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "ice skin care routine",
+    "volume": 734,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/ice-skin-care-routine/951025491533",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter hair 2026",
+    "volume": 828,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-hair-2026/919856671648",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "christmas themed makeup looks",
+    "volume": 170,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/christmas-themed-makeup-looks/925441195098",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "skin care in winter season",
+    "volume": 209,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/skin-care-in-winter-season/934057713260",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "skincare routine",
+    "volume": 540000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Evergreen head term; not checked",
+    "url": "https://www.pinterest.com/ideas/skincare-routine/901301850174/",
+    "new_or_rising": "repeat",
+    "source": "repo:evergreen-seeds.json"
+   },
+   {
+    "keyword": "french tip nails",
+    "volume": 7000000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Head term; not checked",
+    "url": null,
+    "new_or_rising": "repeat",
+    "source": "repo:evergreen-seeds.json"
+   },
+   {
+    "keyword": "natural makeup",
+    "volume": 1000000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Head term; not checked",
+    "url": null,
+    "new_or_rising": "repeat",
+    "source": "repo:evergreen-seeds.json"
+   },
+   {
+    "keyword": "hairstyles for long hair",
+    "volume": 1000000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Head term; not checked",
+    "url": null,
+    "new_or_rising": "repeat",
+    "source": "repo:evergreen-seeds.json"
+   }
+  ],
+  "top_winners": [
+   {
+    "keyword": "easy christmas makeup",
+    "volume": 6000,
+    "competition": "Low"
+   },
+   {
+    "keyword": "winter hair color trends",
+    "volume": 2000,
+    "competition": "Medium"
+   }
+  ]
+ },
+ "food_recipes": {
+  "keywords": [
+   {
+    "keyword": "cookie recipes christmas",
+    "volume": 10000,
+    "competition": "High",
+    "exact": 0,
+    "fresh": 4,
+    "filler": 0,
+    "note": "Brand boards (Taste of Home) + fresh Nov pins",
+    "url": "https://www.pinterest.com/ideas/cookie-recipes-christmas/912404332187",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "best holiday cookie recipes",
+    "volume": 488,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/best-holiday-cookie-recipes/904083162816",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "thanksgiving leftover",
+    "volume": 412,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Peaks now, drops after Thanksgiving",
+    "url": "https://www.pinterest.com/ideas/thanksgiving-leftover/912209291399",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "easy winter soups",
+    "volume": 705,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/easy-winter-soups/928640677762",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "thanksgiving leftover recipes sliders",
+    "volume": 128,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/thanksgiving-leftover-recipes-sliders/923839491205",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "thanksgiving leftover pie recipes",
+    "volume": 111,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/thanksgiving-leftover-pie-recipes/896640001618",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "high altitude christmas cookies",
+    "volume": 103,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/high-altitude-christmas-cookies/958928006944",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter soup ideas for dinner",
+    "volume": 68,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-soup-ideas-for-dinner/938387660430",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "turkey a la king thanksgiving leftovers",
+    "volume": 60,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/turkey-a-la-king-thanksgiving-leftovers/950333377331",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "scandinavian christmas cookies recipes",
+    "volume": 35,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/scandinavian-christmas-cookies-recipes/953689068924",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": []
+ },
+ "diy_crafts": {
+  "keywords": [
+   {
+    "keyword": "romantic diy",
+    "volume": 1000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/romantic-diy/901055577607",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "vintage ornaments diy",
+    "volume": 624,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/vintage-ornaments-diy/933038851852",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "small crochet projects for beginners",
+    "volume": 654,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/small-crochet-projects-for-beginners/900113891534",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "easy christmas decorations diy crafts",
+    "volume": 520,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/easy-christmas-decorations-diy-crafts/947843875132",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "crochet project for beginners",
+    "volume": 813,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/crochet-project-for-beginners/933657692246",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "single crochet projects for beginners",
+    "volume": 524,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/single-crochet-projects-for-beginners/932517497553",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "how to make ornaments diy",
+    "volume": 322,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/how-to-make-ornaments-diy/944020220093",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "thoughtful diy gifts for boyfriend",
+    "volume": 326,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/thoughtful-diy-gifts-for-boyfriend/905895410927",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "easy diy gifts for boyfriend birthday",
+    "volume": 309,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/easy-diy-gifts-for-boyfriend-birthday/918822477982",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "beginner crochet projects tutorial",
+    "volume": 209,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/beginner-crochet-projects-tutorial/901518050538",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "easy crochet projects for beginners free",
+    "volume": 164,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/easy-crochet-projects-for-beginners-free/894594306928",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "natural ornaments diy",
+    "volume": 128,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/natural-ornaments-diy/904571231260",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "dollar tree christmas garland diy",
+    "volume": 69,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/dollar-tree-christmas-garland-diy/897825691928",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": []
+ },
+ "wedding": {
+  "keywords": [
+   {
+    "keyword": "2027 wedding trends",
+    "volume": 24600,
+    "competition": "High",
+    "exact": 6,
+    "fresh": 4,
+    "filler": 5,
+    "note": "Fresh Oct-Nov 2026 pins; heavy competition",
+    "url": "https://www.pinterest.com/ideas/2027-wedding-trends/907490185482",
+    "new_or_rising": "rising",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "blue and yellow wedding",
+    "volume": 16000,
+    "competition": "Low",
+    "exact": 6,
+    "fresh": 0,
+    "filler": 5,
+    "note": "No fresh pins; top results 2016-2023",
+    "url": "https://www.pinterest.com/ideas/blue-and-yellow-wedding/949004188811",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "wedding 2027 trends",
+    "volume": 5000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Same SERP as 2027 wedding trends",
+    "url": "https://www.pinterest.com/ideas/wedding-2027-trends/944476928528",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "2027 wedding",
+    "volume": 4000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/2027-wedding/933214428807",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "small winter wedding",
+    "volume": 3000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/small-winter-wedding/912761191347",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "small winter wedding ideas",
+    "volume": 2000,
+    "competition": "Low",
+    "exact": 2,
+    "fresh": 1,
+    "filler": 6,
+    "note": "Mostly ideas pages / old boards",
+    "url": "https://www.pinterest.com/ideas/small-winter-wedding-ideas/957428015841",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "2027 wedding trends color schemes",
+    "volume": 1700,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/2027-wedding-trends-color-schemes/936693645155",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "2027 wedding color palette",
+    "volume": 740,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/2027-wedding-color-palette/901140725648",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "2027 wedding themes",
+    "volume": 737,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/2027-wedding-themes/927992747177",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "2027 wedding decor",
+    "volume": 492,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/2027-wedding-decor/898148542829",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter wedding venue ideas",
+    "volume": 462,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-wedding-venue-ideas/942569337276",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "wedding theme ideas 2027",
+    "volume": 212,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/wedding-theme-ideas-2027/940481896987",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "upcoming wedding trends",
+    "volume": 110,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/upcoming-wedding-trends/938713917108",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": [
+   {
+    "keyword": "blue and yellow wedding",
+    "volume": 16000,
+    "competition": "Low"
+   },
+   {
+    "keyword": "small winter wedding ideas",
+    "volume": 2000,
+    "competition": "Low"
+   }
+  ]
+ },
+ "fitness_wellness": {
+  "keywords": [
+   {
+    "keyword": "winter arc challenge",
+    "volume": 10000,
+    "competition": "High",
+    "exact": 5,
+    "fresh": 5,
+    "filler": 4,
+    "note": "All 5 exact pins dated 2026",
+    "url": "https://www.pinterest.com/ideas/winter-arc-challenge/955049220043",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "full body pilates workout",
+    "volume": 7100,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/full-body-pilates-workout/909345923394",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "new year vision board 2026",
+    "volume": 2000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/new-year-vision-board-2026/913350087484",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter arc workout",
+    "volume": 1000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-arc-workout/961184107128",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter arc workout plan",
+    "volume": 495,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-arc-workout-plan/945053552502",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "health and wellness vision board inspiration",
+    "volume": 138,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/health-and-wellness-vision-board-inspiration/900464891422",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "free workout plans for women at home",
+    "volume": 136,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/free-workout-plans-for-women-at-home/955550803755",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "5 day workout plan for women at home",
+    "volume": 115,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/5-day-workout-plan-for-women-at-home/956910101550",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "winter arc workout at home",
+    "volume": 80,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/winter-arc-workout-at-home/898395471011",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "health goal vision board",
+    "volume": 64,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/health-goal-vision-board/939804406775",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "standing pilates moves",
+    "volume": 44,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/standing-pilates-moves/902974874154",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "best at home workouts for women",
+    "volume": 232,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/best-at-home-workouts-for-women/947400706430",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": []
+ },
+ "gift_ideas": {
+  "keywords": [
+   {
+    "keyword": "stocking stuffers for men",
+    "volume": 101000,
+    "competition": "Medium",
+    "exact": 8,
+    "fresh": 0,
+    "filler": 5,
+    "note": "Top results dated 2023-2024; no fresh pins",
+    "url": "https://www.pinterest.com/ideas/stocking-stuffers-for-men/912030766093",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "men stocking stuffers",
+    "volume": 16000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Same SERP as above",
+    "url": "https://www.pinterest.com/ideas/men-stocking-stuffers/904294685260",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "christmas gifts for her",
+    "volume": 10000,
+    "competition": "High",
+    "exact": 5,
+    "fresh": 2,
+    "filler": 3,
+    "note": "Listicle-heavy, fresh Oct 2026 pins",
+    "url": "https://www.pinterest.com/ideas/christmas-gifts-for-her/960692377907",
+    "new_or_rising": "rising (seasonal)",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "mens stocking stuffers ideas",
+    "volume": 3000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/mens-stocking-stuffers-ideas/942403298128",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "romantic diy",
+    "volume": 1000,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "Also listed under DIY",
+    "url": "https://www.pinterest.com/ideas/romantic-diy/901055577607",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "male stocking stuffers",
+    "volume": 874,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/male-stocking-stuffers/905581515805",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "christmas presents for her",
+    "volume": 777,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/christmas-presents-for-her/960810213899",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "christmas ideas for her",
+    "volume": 930,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/christmas-ideas-for-her/924734543156",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "trending christmas gifts",
+    "volume": 507,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/trending-christmas-gifts/915663246959",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "stocking stuffers for young men",
+    "volume": 380,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/stocking-stuffers-for-young-men/945609805785",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "unique christmas gift baskets",
+    "volume": 327,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/unique-christmas-gift-baskets/914652851521",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   },
+   {
+    "keyword": "unisex stocking stuffers",
+    "volume": 222,
+    "competition": "not checked",
+    "exact": null,
+    "fresh": null,
+    "filler": null,
+    "note": "",
+    "url": "https://www.pinterest.com/ideas/unisex-stocking-stuffers/949146639445",
+    "new_or_rising": "new",
+    "source": "2026-11-24 TinyFish"
+   }
+  ],
+  "top_winners": [
+   {
+    "keyword": "stocking stuffers for men",
+    "volume": 101000,
+    "competition": "Medium"
+   }
+  ]
+ },
+ "top_winners_all": [
+  {
+   "niche": "gift_ideas",
+   "keyword": "stocking stuffers for men",
+   "volume": 101000,
+   "competition": "Medium"
+  },
+  {
+   "niche": "home_decor",
+   "keyword": "entryway decor ideas",
+   "volume": 46000,
+   "competition": "Low-Medium"
+  },
+  {
+   "niche": "fashion",
+   "keyword": "winter 2026 fashion trends",
+   "volume": 45900,
+   "competition": "Medium"
+  },
+  {
+   "niche": "fashion",
+   "keyword": "winter 2026 outfits",
+   "volume": 37000,
+   "competition": "Low"
+  },
+  {
+   "niche": "home_organization",
+   "keyword": "bathroom closet organization",
+   "volume": 35000,
+   "competition": "Low-Medium"
+  },
+  {
+   "niche": "wedding",
+   "keyword": "blue and yellow wedding",
+   "volume": 16000,
+   "competition": "Low"
+  },
+  {
+   "niche": "home_decor",
+   "keyword": "christmas window painting ideas",
+   "volume": 11000,
+   "competition": "Low"
+  },
+  {
+   "niche": "home_decor",
+   "keyword": "guest bedroom ideas cozy modern",
+   "volume": 10000,
+   "competition": "Medium"
+  },
+  {
+   "niche": "home_decor",
+   "keyword": "cozy bedroom design",
+   "volume": 9000,
+   "competition": "Medium"
+  },
+  {
+   "niche": "home_organization",
+   "keyword": "small apartment organization",
+   "volume": 9000,
+   "competition": "Medium"
+  },
+  {
+   "niche": "home_organization",
+   "keyword": "ikea kitchen organization",
+   "volume": 8000,
+   "competition": "Low-Medium"
+  },
+  {
+   "niche": "home_decor",
+   "keyword": "aesthetic small bedroom",
+   "volume": 7000,
+   "competition": "Low"
+  },
+  {
+   "niche": "beauty",
+   "keyword": "easy christmas makeup",
+   "volume": 6000,
+   "competition": "Low"
+  },
+  {
+   "niche": "home_decor",
+   "keyword": "cozy dark bedroom",
+   "volume": 5000,
+   "competition": "Low"
+  },
+  {
+   "niche": "home_organization",
+   "keyword": "closet organization ideas aesthetic",
+   "volume": 4000,
+   "competition": "Low"
+  },
+  {
+   "niche": "beauty",
+   "keyword": "winter hair color trends",
+   "volume": 2000,
+   "competition": "Medium"
+  },
+  {
+   "niche": "wedding",
+   "keyword": "small winter wedding ideas",
+   "volume": 2000,
+   "competition": "Low"
+  }
+ ]
+}
