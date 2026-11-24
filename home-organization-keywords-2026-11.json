@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "pulled": "2026-11-24",
+    "market": "US",
+    "volume": "Pinterest 'people searched this' (rounded by Pinterest), from pinterest.com/ideas pages",
+    "competition_method": "Top-10 Pinterest results (TinyFish search, US). Only checked for the 'checked' rows. Rating is by hand from how many exact-match pins/boards exist, how many are dated 2026, and how many spots are Pinterest idea pages or product pins."
+  },
+  "keywords": [
+    {"keyword": "garage organization ideas", "volume": 262000, "checked": false, "url": "https://www.pinterest.com/ideas/garage-organization-ideas/926691062080/"},
+    {"keyword": "laundry room organization", "volume": 181000, "checked": false, "url": "https://www.pinterest.com/ideas/laundry-room-organization/905649106203/"},
+    {"keyword": "bathroom closet organization", "volume": 35000, "checked": true, "competition": "Low-Medium", "note": "Top boards dated 2016/2023; only 1 fresh 2026 pin; 3 of 10 results are idea pages", "url": "https://www.pinterest.com/ideas/bathroom-closet-organization/921401876415/"},
+    {"keyword": "small garage organization", "volume": 10000, "checked": false, "url": "https://pinterest.com/ideas/small-garage-organization/898317945235"},
+    {"keyword": "small apartment organization", "volume": 9000, "checked": true, "competition": "Medium", "note": "Several fresh 2026 pins/boards (Aug-Sep) and a 68-pin board", "url": "https://pinterest.com/ideas/small-apartment-organization/911168818198"},
+    {"keyword": "ikea kitchen organization", "volume": 8000, "checked": true, "competition": "Low-Medium", "note": "Leading boards are 2019/2023; 2 idea pages in top 10; no dated 2026 pins", "url": "https://pinterest.com/ideas/ikea-kitchen-organization/945763923540"},
+    {"keyword": "bathroom organizer ideas", "volume": 7000, "checked": true, "competition": "Medium-High", "note": "Product pins and brand boards (messfreeshop 900+ pins)", "url": "https://www.pinterest.com/ideas/bathroom-organizer-ideas/921213577289/"},
+    {"keyword": "laundry organization ideas", "volume": 6000, "checked": false, "url": "https://www.pinterest.com/ideas/laundry-organization-ideas/918499877305/"},
+    {"keyword": "small apartment organization ideas", "volume": 4000, "checked": false, "url": "https://ch.pinterest.com/ideas/small-apartment-organization-ideas/947837562938/"},
+    {"keyword": "organizing small home", "volume": 3000, "checked": false, "url": "https://www.pinterest.com/ideas/organizing-small-home/939679626813/"},
+    {"keyword": "kitchen pantry organization ideas", "volume": 2000, "checked": false, "url": "https://pinterest.com/ideas/kitchen-pantry-organization-ideas/950383336969"},
+    {"keyword": "bathroom ideas organization", "volume": 2000, "checked": false, "url": "https://www.pinterest.com/ideas/bathroom-ideas-organization/931592763078/"},
+    {"keyword": "clean and organized home", "volume": 1000, "checked": false, "url": "https://pinterest.com/ideas/clean-and-organized-home/923803294150"},
+    {"keyword": "dirty laundry organization", "volume": 1000, "checked": false, "url": "https://pinterest.com/ideas/dirty-laundry-organization/902429889862"},
+    {"keyword": "pantry cabinet organization ideas", "volume": 981, "checked": false, "url": "https://ca.pinterest.com/ideas/pantry-cabinet-organization-ideas/945376592866/"},
+    {"keyword": "upper cabinet organization", "volume": 959, "checked": false, "url": "https://pinterest.com/ideas/upper-cabinet-organization/947388385066"},
+    {"keyword": "bathroom organization hacks", "volume": 758, "checked": false, "url": "https://www.pinterest.com/ideas/bathroom-organization-hacks/934742758447/"},
+    {"keyword": "fridge drawer organization", "volume": 706, "checked": false, "url": "https://pinterest.com/ideas/fridge-drawer-organization/896895087337"}
+  ]
+}
