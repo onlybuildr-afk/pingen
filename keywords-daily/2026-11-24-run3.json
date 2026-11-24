@@ -5,7 +5,7 @@
   "volume": "Pinterest 'people searched this' (rounded by Pinterest) read from pinterest.com/ideas pages via TinyFish search snippets. Keywords without a visible count were skipped (volume null only for noted pages).",
   "competition_method": "Top-10 Pinterest results (TinyFish search, site:pinterest.com, US). exact = results whose title contains the phrase; fresh = results dated 2026; filler = ideas pages/shopping pins. Rated Low/Medium/High by hand. Checked for the top 2-4 keywords per niche by volume (plus a few extras); other keywords have competition null (not checked).",
   "trend_method": "trends.pinterest.com logged-out 'Trends in the spotlight' and Editors' Picks (MoM growth). These had no visible search count so are listed as trend_signals, not ranked keywords.",
-  "new_or_rising_rule": "new = keyword text not found in any earlier JSON in the repo; rising = has Pinterest Trends MoM growth. No earlier keywords-daily files existed, so this is the baseline run.",
+  "new_or_rising_rule": "new = keyword text not found in any earlier JSON in the repo, including the earlier 2026-11-24 and 2026-11-24-run2 pulls; rising = has Pinterest Trends MoM growth. Earlier same-day runs exist, so 'new' here means not in those either.",
   "engagement_note": "Pin saves not visible logged out; search volume is the demand signal."
  },
  "niches": {
@@ -20,7 +20,7 @@
      "filler": 4,
      "note": "Head term; many 2026 listicles and big boards",
      "url": "https://www.pinterest.com/ideas/studio-apartment-ideas/945181186992/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "apartment design",
@@ -31,7 +31,7 @@
      "filler": 1,
      "note": "Generic head term dominated by large design boards",
      "url": "https://www.pinterest.com/ideas/apartment-design/931519952288/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "cozy christmas room",
@@ -64,7 +64,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/pink-balcony/921510241649/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "small cozy balcony ideas",
@@ -163,7 +163,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/rental-wall-decor/910467904591/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "cozy living rooms christmas",
@@ -196,7 +196,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/diy-wall-decor-rental-friendly/960950133910/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "renter friendly gallery wall",
@@ -262,7 +262,7 @@
      "filler": 4,
      "note": "Generic; mixed life/home organizing pins",
      "url": "https://www.pinterest.com/ideas/how-to-organize/912525676270/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "pantry closet organization",
@@ -295,7 +295,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/pantry-cabinet-organization-ideas/945376592866/",
-     "new_or_rising": "seen_before"
+     "new_or_rising": "new"
     },
     {
      "keyword": "upper cabinet organization",
@@ -306,7 +306,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/upper-cabinet-organization/947388385066/",
-     "new_or_rising": "seen_before"
+     "new_or_rising": "new"
     },
     {
      "keyword": "deep bathroom closet organization",
@@ -762,7 +762,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/winter-hair-color-trends/916741099834/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "hair color ideas for winter",
@@ -1181,7 +1181,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/wood-circle-ornaments-diy/942590640890/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "mini ornaments diy craft ideas",
@@ -1236,7 +1236,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/plastic-disc-ornaments-diy/914379776593/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "advent candle ideas diy",
@@ -1319,7 +1319,7 @@
      "filler": 3,
      "note": "Many fresh Oct-Nov 2026 pins",
      "url": "https://www.pinterest.com/ideas/2027-wedding-trends/907490185482/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "blue and yellow wedding",
@@ -1330,7 +1330,7 @@
      "filler": 3,
      "note": "Many exact titles but none fresh (2016-2023) - freshness gap",
      "url": "https://www.pinterest.com/ideas/blue-and-yellow-wedding/949004188811/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "2027 wedding colors",
@@ -1352,7 +1352,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/wedding-2027-trends/944476928528/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "2027 wedding",
@@ -1363,7 +1363,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/2027-wedding/933214428807/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "2027 wedding trends color schemes",
@@ -1374,7 +1374,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/2027-wedding-trends-color-schemes/936693645155/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "wedding 2027 ideas",
@@ -1407,7 +1407,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/2027-wedding-themes/927992747177/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "2027 wedding decor",
@@ -1418,7 +1418,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/2027-wedding-decor/898148542829/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "wedding theme ideas 2027",
@@ -1429,7 +1429,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/wedding-theme-ideas-2027/940481896987/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "sage green and burnt orange wedding bridesmaid dress",
@@ -1578,7 +1578,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/2026-workout-plan/940971990457/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "30 minute pilates workout",
@@ -1793,7 +1793,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/male-stocking-stuffers/905581515805/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "christmas presents for her",
@@ -1804,7 +1804,7 @@
      "filler": null,
      "note": "",
      "url": "https://www.pinterest.com/ideas/christmas-presents-for-her/960810213899/",
-     "new_or_rising": "new"
+     "new_or_rising": "seen_before"
     },
     {
      "keyword": "boyfriend stocking stuffers ideas",
