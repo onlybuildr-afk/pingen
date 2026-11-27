@@ -1024,11 +1024,11 @@
    {
     "keyword": "winter wedding guest outfit",
     "volume": 218000,
-    "competition": null,
-    "exact": null,
-    "fresh": null,
-    "filler": null,
-    "note": "competition not checked",
+    "competition": "Low-Medium",
+    "exact": 1,
+    "fresh": 1,
+    "filler": 4,
+    "note": "Only 1 exact title (ideas page); 1 fresh pin (Nov 16 2026), others 2014/2024 or intl subdomains; 4 ideas pages in top 10",
     "url": "https://www.pinterest.com/ideas/winter-wedding-guest-outfit/958013157298/",
     "new_or_rising": "new"
    },
@@ -1167,6 +1167,17 @@
   ],
   "top_winners": [
    {
+    "keyword": "winter wedding guest outfit",
+    "volume": 218000,
+    "competition": "Low-Medium",
+    "exact": 1,
+    "fresh": 1,
+    "filler": 4,
+    "note": "Only 1 exact title (ideas page); 1 fresh pin (Nov 16 2026), others 2014/2024 or intl subdomains; 4 ideas pages in top 10",
+    "url": "https://www.pinterest.com/ideas/winter-wedding-guest-outfit/958013157298/",
+    "new_or_rising": "new"
+   },
+   {
     "keyword": "winter wedding guest dress",
     "volume": 54000,
     "competition": "Low-Medium",
@@ -1193,7 +1204,7 @@
    {
     "keyword": "winter wedding guest outfit",
     "volume": 218000,
-    "competition": null
+    "competition": "Low-Medium"
    },
    {
     "keyword": "winter wedding guest dress",
@@ -1380,7 +1391,7 @@
     "exact": 4,
     "fresh": 4,
     "filler": 6,
-    "note": "4 exact, 4 fresh Oct-Nov 2026 gift-guide pins, 6 ideas pages",
+    "note": "Page 1 also full of fresh Sep-Oct 2026 gift-list pins plus ideas pages; strong content competition",
     "url": "https://www.pinterest.com/ideas/christmas-gifts-for-mom/944163316849/",
     "new_or_rising": "new"
    },
@@ -1515,6 +1526,18 @@
   ]
  },
  "top_winners_all": [
+  {
+   "keyword": "winter wedding guest outfit",
+   "volume": 218000,
+   "competition": "Low-Medium",
+   "exact": 1,
+   "fresh": 1,
+   "filler": 4,
+   "note": "Only 1 exact title (ideas page); 1 fresh pin (Nov 16 2026), others 2014/2024 or intl subdomains; 4 ideas pages in top 10",
+   "url": "https://www.pinterest.com/ideas/winter-wedding-guest-outfit/958013157298/",
+   "new_or_rising": "new",
+   "niche": "wedding"
+  },
   {
    "keyword": "casual christmas party outfit",
    "volume": 82000,
